@@ -1,0 +1,10 @@
+[1] "Do not use, nor trust, this data!"
+            Df Sum Sq Mean Sq F value   Pr(>F)    
+Method       1     41    40.7   6.874   0.0277 *  
+SpecimenID   9   3687   409.7  69.198 3.12e-07 ***
+Residuals    9     53     5.9                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+            Df Sum Sq Mean Sq F value Pr(>F)
+Method       1    0.1    0.14   0.004  0.948
+Residuals   18  588.9   32.72               

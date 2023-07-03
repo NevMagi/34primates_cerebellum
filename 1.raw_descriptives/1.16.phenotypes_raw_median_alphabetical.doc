@@ -1,0 +1,283 @@
+<table style="border-collapse:collapse; border:none;">
+<tr>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; text-align:left; ">Species</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">Cerebellar.Volume</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">Cerebral.Volume</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">Ansiform.Area.Volume</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">Cerebellum.to.Cerebrum.Ratio</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">Ansiform.Area.to.Cerebellum.Ratio</th>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Aotus_trivirgatus</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1626.50</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">11745.67</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">216.50</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">13.85</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">13.31</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Ateles_paniscus</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">8903.13</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">77381.00</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">11.49</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Callithrix_penicillata</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">484.89</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3937.97</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">12.31</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Cebus_apella</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">5190.54</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">36284.50</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1012.00</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">14.31</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">19.50</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Cebus_capucinus</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4274.46</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">40050.73</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">10.67</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Cercocebus_atys</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">5362.43</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">51689.04</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">10.37</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Cercopithecus_cephus_cephus</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3697.30</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">41537.90</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">8.90</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Chlorocebus_sabaeus</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4169.02</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">53627.05</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">505.00</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">7.77</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">12.11</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Colobus_polykomos</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">5787.09</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">40468.39</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">842.00</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">14.30</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">14.55</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Daubentonia_madagascariensis</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3032.44</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">17151.13</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">374.00</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">17.68</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">12.33</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Eulemur_mongoz</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3223.56</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">14495.49</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">22.24</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Galago_demidoff</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">320.56</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1925.20</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">16.65</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Gorilla_beringei_graueri</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">46163.15</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">272907.91</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">16.92</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Gorilla_gorilla_gorilla</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">58402.17</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">237689.67</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">13107.00</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">24.57</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">22.44</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Homo_sapiens</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">142171.00</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1005711.44</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">43726.00</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">14.26</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">29.79</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Hylobates_lar</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">8681.29</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">60685.46</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">14.31</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Lagothrix_lagotricha</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">5595.23</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">49384.89</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">873.75</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">11.33</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">15.62</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Lemur_catta</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2035.22</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">12657.73</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">16.08</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Lepilemur_ruficaudatus</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">882.28</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4087.30</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">21.59</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Lophocebus_albigena</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">6320.46</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">49184.95</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">12.85</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Loris_tardigradus</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">446.66</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3071.11</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">14.54</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Macaca_fascicularis</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">6184.34</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">46286.37</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">12.89</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Macaca_mulatta</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">10455.81</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">75928.21</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">13.54</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Microcebus_murinus</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">169.89</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">809.31</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">20.99</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Mirza_coquereli</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">883.86</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3884.83</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">22.75</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Pan_paniscus</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">48408.38</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">243035.61</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">6627.00</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">19.92</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">13.69</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Pan_troglodytes_troglodytes</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">57047.00</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">284481.75</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">15544.00</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">18.36</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">29.73</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Papio_hamadryas</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">9478.30</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">89861.18</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1841.00</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">10.55</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">19.42</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Pongo_pygmaeus</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">25757.33</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">184458.30</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">6081.00</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">13.96</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">23.61</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Saguinus_oedipus</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">750.05</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">6254.43</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">11.99</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Saimiri_sciureus</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">920.02</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">8539.61</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">10.93</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Semnopithecus_entellus</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">6748.56</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">49915.83</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">13.52</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Trachypithecus_(Trachypithecus)_germaini</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3756.08</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">37987.58</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">9.89</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; border-bottom: double; ">Varecia_variegata_variegata</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">3376.94</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">16032.39</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">NA</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">21.06</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">NA</td>
+</tr>
+</table>
+

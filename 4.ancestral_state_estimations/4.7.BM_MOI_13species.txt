@@ -1,0 +1,16 @@
+Phylogenetic trait variance-covariance
+              CerebellarVol CerebralVol CrusVol_1_3
+CerebellarVol   0.008580760 0.007833187 0.010431287
+CerebralVol     0.007833187 0.007600417 0.009335031
+CrusVol_1_3     0.010431287 0.009335031 0.012759159
+
+Phenotypic trait variance-covariance
+              CerebellarVol  CerebralVol  CrusVol_1_3
+CerebellarVol   0.004331233 0.0011079789 0.0018364033
+CerebralVol     0.001107979 0.0025694533 0.0005755471
+CrusVol_1_3     0.001836403 0.0005755471 0.0034615422
+
+% variance explained by phylogeny
+CerebellarVol   CerebralVol   CrusVol_1_3 
+     99.01932      99.33979      99.46083 
+Brownian motion model

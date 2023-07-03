@@ -1,0 +1,16 @@
+#NEXUS
+[created by the 10kTree Website - http://10kTrees.fas.harvard.edu]
+BEGIN TREES;
+translate
+1 Daubentonia_madagascariensis,
+2 Eulemur_mongoz,
+3 Lemur_catta,
+4 Lepilemur_ruficaudatus,
+5 Microcebus_murinus,
+6 Mirza_coquereli,
+7 Varecia_variegata_variegata,
+8 Loris_tardigradus,
+9 Galagoides_demidoff;
+tree consensus_9species = (((((5:14.271122,6:14.271123):14.157972,4:28.429095):4.835621,((2:15.019597,3:15.019596):5.523206,7:20.542802):12.721914):17.859349,1:51.124065):11.612487,(8:38.000000,9:38.000000):24.736553);
+END;<br />
+<b>Warning</b>:  session_write_close() expects exactly 0 parameters, 1 given in <b>/var/www/10ktrees.nunn-lab.org/sendTreesToUser.php</b> on line <b>98</b><br />

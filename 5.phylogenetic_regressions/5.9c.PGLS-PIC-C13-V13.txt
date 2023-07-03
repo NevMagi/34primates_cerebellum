@@ -1,0 +1,49 @@
+Generalized least squares fit by REML
+  Model: MedianCerebellum ~ MedianCerebrum 
+  Data: phenoMedianAA 
+        AIC       BIC   logLik
+  -5.254438 -4.060753 5.627219
+
+Correlation Structure: corBrownian
+ Formula: ~1 
+ Parameter estimate(s):
+numeric(0)
+
+Coefficients:
+                    Value Std.Error  t-value p-value
+(Intercept)    -0.5641225 0.4285474 -1.31636  0.2148
+MedianCerebrum  0.9393825 0.0892351 10.52705  0.0000
+
+ Correlation: 
+               (Intr)
+MedianCerebrum -0.948
+
+Standardized residuals:
+         Min           Q1          Med           Q3          Max 
+-1.131471904 -0.425112484 -0.005520888  0.342732245  1.227214252 
+
+Residual standard error: 0.2285026 
+Degrees of freedom: 13 total; 11 residual
+   (Intercept) MedianCerebrum 
+    -0.5641225      0.9393825 
+[1] "---------------------------"
+
+Call:
+lm(formula = pic.C13.med ~ pic.V13.med + 0)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.039329 -0.027832 -0.003974  0.014029  0.037176 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+pic.V13.med  0.93938    0.08924   10.53 4.41e-07 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.02674 on 11 degrees of freedom
+Multiple R-squared:  0.9097,	Adjusted R-squared:  0.9015 
+F-statistic: 110.8 on 1 and 11 DF,  p-value: 4.415e-07
+
+pic.V13.med 
+  0.9393825 

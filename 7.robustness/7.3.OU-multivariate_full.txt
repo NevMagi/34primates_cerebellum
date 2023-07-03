@@ -1,0 +1,19 @@
+Phylogenetic trait variance-covariance
+              CerebellarVol  CerebralVol            CC
+CerebellarVol  0.0061974972  0.006196739  0.0006589948
+CerebralVol    0.0061967388  0.006341404 -0.0043967060
+CC             0.0006589948 -0.004396706  0.1797398003
+
+mvOU alpha = 
+              CerebellarVol CerebralVol           CC
+CerebellarVol   0.003151102 0.000000000 0.000000e+00
+CerebralVol     0.000000000 0.003160103 0.000000e+00
+CC              0.000000000 0.000000000 5.973459e-07
+
+
+Stationary covariance = 
+              CerebellarVol CerebralVol            CC
+CerebellarVol     0.9833857   0.9818629  2.090919e-01
+CerebralVol       0.9818629   1.0033538 -1.391054e+00
+CC                0.2090919  -1.3910542  1.504487e+05
+

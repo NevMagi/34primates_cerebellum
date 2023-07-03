@@ -1,0 +1,28 @@
+[1] "Human: Cerebellar Volume - Cerebral Volume - Ansiform Area Volume - Cerebro-Cerebellar Ratio - Ansiform Area-Cerebellar Ratio"
+[1] 18709.67
+[1] 179368.1
+[1] 5003.034
+[1] 1.746679
+[1] 1.909901
+[1] "Chimpanzee: Cerebellar Volume - Cerebral Volume - Ansiform Area Volume - Cerebro-Cerebellar Ratio - Ansiform Area-Cerebellar Ratio"
+[1] 6914.846
+[1] 26063.46
+[1] 1931.828
+[1] 3.559383
+[1] 3.685869
+[1] "Crab-eating macaque: Cerebellar Volume - Cerebral Volume - Cerebro-Cerebellar Ratio"
+[1] 954.7945
+[1] 9596.98
+[1] 0.9847821
+[1] "Rhesus macaque: Cerebellar Volume - Cerebral Volume - Cerebro-Cerebellar Ratio"
+[1] 499.6371
+[1] 4689.278
+[1] 0.6392553
+[1] "Black spider monkey: Cerebellar Volume - Cerebral Volume - Cerebro-Cerebellar Ratio"
+[1] 1410.568
+[1] 10948.48
+[1] 0.1967774
+[1] "Common squirrel monkey: Cerebellar Volume - Cerebral Volume - Cerebro-Cerebellar Ratio"
+[1] 54.97203
+[1] 1263.189
+[1] 2.259856

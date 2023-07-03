@@ -1,0 +1,49 @@
+Generalized least squares fit by REML
+  Model: MedianCrus ~ MedianROC 
+  Data: NONAPES13 
+       AIC       BIC   logLik
+  -4.69317 -5.317892 5.346585
+
+Correlation Structure: corBrownian
+ Formula: ~1 
+ Parameter estimate(s):
+numeric(0)
+
+Coefficients:
+                Value Std.Error  t-value p-value
+(Intercept) -1.909376 0.3250185 -5.87467  0.0011
+MedianROC    1.320781 0.0905402 14.58779  0.0000
+
+ Correlation: 
+          (Intr)
+MedianROC -0.971
+
+Standardized residuals:
+       Min         Q1        Med         Q3        Max 
+-0.7402104 -0.3275009  0.1723442  0.7020075  1.0332964 
+
+Residual standard error: 0.1277219 
+Degrees of freedom: 8 total; 6 residual
+(Intercept)   MedianROC 
+  -1.909376    1.320781 
+[1] "---------------------------"
+
+Call:
+lm(formula = pic.AA13.nonapes ~ pic.ROC13.nonapes + 0)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.025751 -0.016623 -0.005721  0.004121  0.006026 
+
+Coefficients:
+                  Estimate Std. Error t value Pr(>|t|)    
+pic.ROC13.nonapes  1.32078    0.09054   14.59 6.51e-06 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.01495 on 6 degrees of freedom
+Multiple R-squared:  0.9726,	Adjusted R-squared:  0.968 
+F-statistic: 212.8 on 1 and 6 DF,  p-value: 6.511e-06
+
+pic.ROC13.nonapes 
+         1.320781 

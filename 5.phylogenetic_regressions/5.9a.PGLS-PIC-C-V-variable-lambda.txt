@@ -1,0 +1,15 @@
+Approximate 95% confidence intervals
+
+ Correlation structure:
+           lower      est.   upper
+lambda 0.5429937 0.8117071 1.08042
+
+ Residual standard error:
+     lower       est.      upper 
+0.09444004 0.13347091 0.18863276 
+           Model df       AIC       BIC   logLik   Test L.Ratio p-value
+PGLS.CV        1  4 -47.51609 -41.65315 27.75805                       
+PGLS.CV.l0     2  3 -29.24609 -24.84888 17.62304 1 vs 2   20.27  <.0001
+           Model df       AIC       BIC   logLik   Test  L.Ratio p-value
+PGLS.CV        1  4 -47.51609 -41.65315 27.75805                        
+PGLS.CV.l1     2  3 -42.69748 -38.30027 24.34874 1 vs 2 6.818612   0.009

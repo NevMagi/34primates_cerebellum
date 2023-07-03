@@ -1,0 +1,41 @@
+#NEXUS
+[created by the 10kTree Website - http://10kTrees.fas.harvard.edu]
+BEGIN TREES;
+translate
+1 Cercopithecus_ascanius,
+2 Cercopithecus_mitis,
+3 Erythrocebus_patas,
+4 Avahi_laniger,
+5 Avahi_occidentalis,
+6 Cheirogaleus_major,
+7 Cheirogaleus_medius,
+8 Daubentonia_madagascariensis,
+9 Indri_indri,
+10 Lepilemur_ruficaudatus,
+11 Microcebus_murinus,
+12 Propithecus_verreauxi,
+13 Ateles_geoffroyi,
+14 Lagothrix_lagotricha,
+15 Aotus_trivirgatus,
+16 Callimico_goeldii,
+17 Callithrix_jacchus,
+18 Saguinus_oedipus,
+19 Saimiri_sciureus,
+20 Loris_tardigradus,
+21 Nycticebus_coucang,
+22 Perodicticus_potto,
+23 Gorilla_gorilla_gorilla,
+24 Homo_sapiens,
+25 Hylobates_lar,
+26 Pan_troglodytes_troglodytes,
+27 Macaca_mulatta,
+28 Papio_anubis,
+29 Nasalis_larvatus,
+30 Piliocolobus_badius,
+31 Pygathrix_nemaeus,
+32 Galago_senegalensis,
+33 Galagoides_demidoff,
+34 Otolemur_crassicaudatus;
+tree consensus_34species = (((((((2:6.429209,1:6.429209):3.418917,3:9.848126):5.027053,(28:12.852525,27:12.852525):2.022653):6.535196,(30:15.435157,(29:9.634813,31:9.634813):5.800345):5.975217):8.589626,(25:19.605945,(23:8.652233,(24:6.175880,26:6.175879):2.476353):10.953713):10.394055):16.811821,((13:9.147391,14:9.147391):12.173909,((15:19.487521,((16:13.232628,17:13.232627):2.479624,18:15.712253):3.775269):0.605006,19:20.092528):1.228773):25.490521):26.191197,(((((11:22.563388,(6:11.388139,7:11.388139):11.175250):5.865706,10:28.429095):2.516810,(9:20.909032,((5:6.252780,4:6.252780):10.249820,12:16.502600):4.406432):10.036873):20.178160,8:51.124065):11.612487,((22:34.635256,(20:24.057527,21:24.057528):10.577729):3.364744,((32:13.364418,34:13.364418):3.766768,33:17.131185):20.868815):24.736553):10.266465);
+END;<br />
+<b>Warning</b>:  session_write_close() expects exactly 0 parameters, 1 given in <b>/var/www/10ktrees.nunn-lab.org/sendTreesToUser.php</b> on line <b>98</b><br />

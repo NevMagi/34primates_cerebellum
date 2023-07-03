@@ -1,0 +1,55 @@
+Generalized least squares fit by REML
+  Model: MedianCrus ~ MedianCerebrum 
+  Data: APES13 
+       AIC      BIC     logLik
+  6.246118 3.541955 -0.1230591
+
+Correlation Structure: corBrownian
+ Formula: ~1 
+ Parameter estimate(s):
+numeric(0)
+
+Coefficients:
+                   Value Std.Error    t-value p-value
+(Intercept)    -2.171559 2.2413514 -0.9688614  0.4041
+MedianCerebrum  1.142360 0.4096837  2.7883963  0.0685
+
+ Correlation: 
+               (Intr)
+MedianCerebrum -0.996
+
+Standardized residuals:
+    Gorilla_gorilla_gorilla                Homo_sapiens                Pan_paniscus Pan_troglodytes_troglodytes 
+                  0.4541840                  -0.1374027                  -0.4904016                   0.4077727 
+             Pongo_pygmaeus 
+                 -0.1845376 
+attr(,"std")
+[1] 0.3252443 0.3252443 0.3252443 0.3252443 0.3252443
+attr(,"label")
+[1] "Standardized residuals"
+
+Residual standard error: 0.3252443 
+Degrees of freedom: 5 total; 3 residual
+   (Intercept) MedianCerebrum 
+     -2.171559       1.142360 
+[1] "---------------------------"
+
+Call:
+lm(formula = pic.AA13.apes ~ pic.V13.apes + 0)
+
+Residuals:
+        6         7         8         9 
+ 0.019783  0.046989 -0.009345 -0.135222 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)  
+pic.V13.apes   1.1424     0.4097   2.788   0.0685 .
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.08361 on 3 degrees of freedom
+Multiple R-squared:  0.7216,	Adjusted R-squared:  0.6288 
+F-statistic: 7.775 on 1 and 3 DF,  p-value: 0.06851
+
+pic.V13.apes 
+     1.14236 

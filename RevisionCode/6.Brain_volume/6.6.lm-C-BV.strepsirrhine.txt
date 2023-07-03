@@ -1,0 +1,19 @@
+
+Call:
+lm(formula = pic.C.strep ~ pic.BV.strep)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.017629 -0.004843 -0.000217  0.007137  0.015987 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  0.004923   0.004700   1.048    0.335    
+pic.BV.strep 1.024268   0.063827  16.048 3.72e-06 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.01176 on 6 degrees of freedom
+Multiple R-squared:  0.9772,	Adjusted R-squared:  0.9734 
+F-statistic: 257.5 on 1 and 6 DF,  p-value: 3.72e-06
+

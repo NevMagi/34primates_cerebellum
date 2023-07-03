@@ -1,0 +1,49 @@
+Generalized least squares fit by REML
+  Model: BrainVol ~ Body.mass.species.mean 
+  Data: species2 
+       AIC      BIC   logLik
+  1.302647 5.604609 2.348676
+
+Correlation Structure: corBrownian
+ Formula: ~1 
+ Parameter estimate(s):
+numeric(0)
+
+Coefficients:
+                          Value  Std.Error   t-value p-value
+(Intercept)            4.139046 0.17917421 23.100678       0
+Body.mass.species.mean 0.684920 0.08552656  8.008277       0
+
+ Correlation: 
+                       (Intr)
+Body.mass.species.mean -0.046
+
+Standardized residuals:
+        Min          Q1         Med          Q3         Max 
+-0.83150508 -0.15039002  0.08960209  0.61710891  1.79562716 
+
+Residual standard error: 0.3781281 
+Degrees of freedom: 33 total; 31 residual
+           (Intercept) Body.mass.species.mean 
+             4.1390457              0.6849204 
+[1] "---------------------------"
+
+Call:
+lm(formula = pic.BV ~ pic.BM + 0)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.133719 -0.015790  0.000203  0.023301  0.125288 
+
+Coefficients:
+       Estimate Std. Error t value Pr(>|t|)    
+pic.BM  0.68492    0.08553   8.008 4.83e-09 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.04426 on 31 degrees of freedom
+Multiple R-squared:  0.6741,	Adjusted R-squared:  0.6636 
+F-statistic: 64.13 on 1 and 31 DF,  p-value: 4.833e-09
+
+   pic.BM 
+0.6849204 

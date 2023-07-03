@@ -1,0 +1,53 @@
+Generalized least squares fit by REML
+  Model: MedianCrus ~ MedianROC 
+  Data: APES13 
+       AIC      BIC     logLik
+  7.225277 4.521114 -0.6126387
+
+Correlation Structure: corBrownian
+ Formula: ~1 
+ Parameter estimate(s):
+numeric(0)
+
+Coefficients:
+                Value Std.Error    t-value p-value
+(Intercept) -1.946926  3.268815 -0.5956061  0.5934
+MedianROC    1.314412  0.713832  1.8413478  0.1628
+
+ Correlation: 
+          (Intr)
+MedianROC -0.997
+
+Standardized residuals:
+    Gorilla_gorilla_gorilla                Homo_sapiens                Pan_paniscus Pan_troglodytes_troglodytes 
+                -0.13151627                  0.01948138                 -0.72368602                  0.21009160 
+             Pongo_pygmaeus 
+                 0.20573332 
+attr(,"std")
+[1] 0.42233 0.42233 0.42233 0.42233 0.42233
+attr(,"label")
+[1] "Standardized residuals"
+
+Residual standard error: 0.42233 
+Degrees of freedom: 5 total; 3 residual
+(Intercept)   MedianROC 
+  -1.946926    1.314412 
+[1] "---------------------------"
+
+Call:
+lm(formula = pic.AA13.apes ~ pic.ROC13.apes + 0)
+
+Residuals:
+         6          7          8          9 
+-0.0286383  0.0001758  0.0348884 -0.1825456 
+
+Coefficients:
+               Estimate Std. Error t value Pr(>|t|)
+pic.ROC13.apes   1.3144     0.7138   1.841    0.163
+
+Residual standard error: 0.1086 on 3 degrees of freedom
+Multiple R-squared:  0.5306,	Adjusted R-squared:  0.3741 
+F-statistic: 3.391 on 1 and 3 DF,  p-value: 0.1628
+
+pic.ROC13.apes 
+      1.314412 

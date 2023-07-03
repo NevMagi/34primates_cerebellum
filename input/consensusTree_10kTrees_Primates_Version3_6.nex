@@ -1,0 +1,13 @@
+#NEXUS
+[created by the 10kTree Website - http://10kTrees.fas.harvard.edu]
+BEGIN TREES;
+translate
+1 Chlorocebus_sabaeus,
+2 Colobus_polykomos,
+3 Homo_sapiens,
+4 Lagothrix_lagotricha,
+5 Pan_troglodytes_troglodytes,
+6 Pongo_pygmaeus;
+tree consensus_6species = (((1:21.410374,2:21.410374):8.589626,((3:6.175880,5:6.175879):8.956575,6:15.132455):14.867546):16.811821,4:46.811821);
+END;<br />
+<b>Warning</b>:  session_write_close() expects exactly 0 parameters, 1 given in <b>/var/www/10ktrees.nunn-lab.org/sendTreesToUser.php</b> on line <b>98</b><br />

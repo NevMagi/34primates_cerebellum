@@ -1,0 +1,49 @@
+Generalized least squares fit by maximum likelihood
+  Model: MedianCrus ~ MedianROC 
+  Data: phenoMedianAA 
+       AIC      BIC    logLik
+  9.475606 11.17045 -1.737803
+
+Correlation Structure: corBrownian
+ Formula: ~1 
+ Parameter estimate(s):
+numeric(0)
+
+Coefficients:
+                Value Std.Error   t-value p-value
+(Intercept) -1.833182 0.8078158 -2.269307  0.0444
+MedianROC    1.297313 0.2067557  6.274615  0.0001
+
+ Correlation: 
+          (Intr)
+MedianROC -0.931
+
+Standardized residuals:
+        Min          Q1         Med          Q3         Max 
+-0.74910845 -0.08090318  0.01791668  0.13392378  0.30980491 
+
+Residual standard error: 0.4543542 
+Degrees of freedom: 13 total; 11 residual
+(Intercept)   MedianROC 
+  -1.833182    1.297313 
+[1] "---------------------------"
+
+Call:
+lm(formula = pic.AA13.med ~ 0 + pic.ROC13.med)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.182400 -0.020196 -0.003302  0.003974  0.036902 
+
+Coefficients:
+              Estimate Std. Error t value Pr(>|t|)    
+pic.ROC13.med   1.2973     0.2068   6.275 6.05e-05 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.05781 on 11 degrees of freedom
+Multiple R-squared:  0.7816,	Adjusted R-squared:  0.7618 
+F-statistic: 39.37 on 1 and 11 DF,  p-value: 6.048e-05
+
+pic.ROC13.med 
+     1.297313 

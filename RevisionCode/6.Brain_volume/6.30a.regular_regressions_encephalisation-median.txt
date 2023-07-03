@@ -1,0 +1,20 @@
+[1] "Brain volume regressed on body mass."
+
+Call:
+lm(formula = BrainVol ~ Body.mass.species.mean, data = species2)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-0.28932 -0.16763 -0.00116  0.14712  0.49022 
+
+Coefficients:
+                       Estimate Std. Error t value Pr(>|t|)    
+(Intercept)             4.15244    0.03969  104.62   <2e-16 ***
+Body.mass.species.mean  0.78165    0.03871   20.19   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.1884 on 31 degrees of freedom
+Multiple R-squared:  0.9293,	Adjusted R-squared:  0.9271 
+F-statistic: 407.7 on 1 and 31 DF,  p-value: < 2.2e-16
+

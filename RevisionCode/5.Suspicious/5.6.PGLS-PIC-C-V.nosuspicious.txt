@@ -1,0 +1,49 @@
+Generalized least squares fit by REML
+  Model: MedianCerebellum ~ MedianCerebrum 
+  Data: NOSUSPICIOUS 
+        AIC       BIC   logLik
+  -33.00982 -29.12231 19.50491
+
+Correlation Structure: corBrownian
+ Formula: ~1 
+ Parameter estimate(s):
+numeric(0)
+
+Coefficients:
+                    Value  Std.Error   t-value p-value
+(Intercept)    -0.5656694 0.23774556 -2.379306  0.0247
+MedianCerebrum  0.9393183 0.05374287 17.478007  0.0000
+
+ Correlation: 
+               (Intr)
+MedianCerebrum -0.911
+
+Standardized residuals:
+        Min          Q1         Med          Q3         Max 
+-1.27822078 -0.55064557 -0.09093037  0.39959429  1.40579316 
+
+Residual standard error: 0.2008213 
+Degrees of freedom: 29 total; 27 residual
+   (Intercept) MedianCerebrum 
+    -0.5656694      0.9393183 
+[1] "---------------------------"
+
+Call:
+lm(formula = pic.C.nosuspicious ~ pic.V.nosuspicious + 0)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.070067 -0.017993 -0.004302  0.012358  0.029884 
+
+Coefficients:
+                   Estimate Std. Error t value Pr(>|t|)    
+pic.V.nosuspicious  0.93932    0.05374   17.48 3.01e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.0235 on 27 degrees of freedom
+Multiple R-squared:  0.9188,	Adjusted R-squared:  0.9158 
+F-statistic: 305.5 on 1 and 27 DF,  p-value: 3.012e-16
+
+pic.V.nosuspicious 
+         0.9393183 

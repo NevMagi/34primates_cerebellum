@@ -1,0 +1,19 @@
+
+Call:
+lm(formula = pic.C.noparis ~ pic.V.noparis)
+
+Residuals:
+        9        10        11        12        13        14        15 
+-0.007583  0.020354 -0.018913  0.030755 -0.045405  0.005345  0.015447 
+
+Coefficients:
+              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)   -0.02195    0.01107  -1.984 0.104108    
+pic.V.noparis  0.83723    0.11526   7.264 0.000773 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.02865 on 5 degrees of freedom
+Multiple R-squared:  0.9134,	Adjusted R-squared:  0.8961 
+F-statistic: 52.76 on 1 and 5 DF,  p-value: 0.0007729
+

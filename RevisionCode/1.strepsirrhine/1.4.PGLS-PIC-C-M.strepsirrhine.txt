@@ -1,0 +1,49 @@
+Generalized least squares fit by REML
+  Model: MedianCerebellum ~ Mass 
+  Data: STREP 
+       AIC      BIC     logLik
+  7.014805 6.852535 -0.5074023
+
+Correlation Structure: corBrownian
+ Formula: ~1 
+ Parameter estimate(s):
+numeric(0)
+
+Coefficients:
+               Value Std.Error   t-value p-value
+(Intercept) 3.190116 0.1522442 20.953936   0.000
+Mass        0.698316 0.1294058  5.396325   0.001
+
+ Correlation: 
+     (Intr)
+Mass 0.286 
+
+Standardized residuals:
+       Min         Q1        Med         Q3        Max 
+-0.6482852 -0.4425268 -0.1495742  0.3676591  0.9427609 
+
+Residual standard error: 0.2756884 
+Degrees of freedom: 9 total; 7 residual
+(Intercept)        Mass 
+  3.1901160   0.6983159 
+[1] "---------------------------"
+
+Call:
+lm(formula = pic.C.strep ~ pic.M.strep + 0)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.045015 -0.016593 -0.005308  0.021088  0.069681 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)   
+pic.M.strep   0.6983     0.1294   5.396  0.00101 **
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.03481 on 7 degrees of freedom
+Multiple R-squared:  0.8062,	Adjusted R-squared:  0.7785 
+F-statistic: 29.12 on 1 and 7 DF,  p-value: 0.001012
+
+pic.M.strep 
+  0.6983159 

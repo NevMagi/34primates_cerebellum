@@ -1,0 +1,28 @@
+Phylogenetic trait variance-covariance
+              CerebellarVol   CerebralVol CrusVol_1_3
+CerebellarVol  1.308450e+09  9.425429e+09   -3381.692
+CerebralVol    9.425429e+09  6.789617e+10  -24480.084
+CrusVol_1_3   -3.381692e+03 -2.448008e+04    1048.395
+
+Phenotypic trait variance-covariance
+              CerebellarVol CerebralVol CrusVol_1_3
+CerebellarVol      74378221   373472210    22651788
+CerebralVol       373472210  4748956024   107178415
+CrusVol_1_3        22651788   107178415   316811593
+
+% variance explained by phylogeny
+CerebellarVol   CerebralVol   CrusVol_1_3 
+    97.221269     96.174848      4.150237 
+mvOU alpha = 
+              CerebellarVol CerebralVol  CrusVol_1_3
+CerebellarVol    0.01956375   0.1371611 2.648201e-01
+CerebralVol      0.13716110   0.9700348 2.357676e+00
+CrusVol_1_3      0.26482005   2.3576765 2.178237e+06
+
+
+Stationary covariance = 
+              CerebellarVol   CerebralVol   CrusVol_1_3
+CerebellarVol  1.965417e+09  4.489430e+09 -5.098207e+03
+CerebralVol    4.489430e+09  3.436207e+10 -3.773855e+04
+CrusVol_1_3   -5.098207e+03 -3.773855e+04  4.170785e-02
+

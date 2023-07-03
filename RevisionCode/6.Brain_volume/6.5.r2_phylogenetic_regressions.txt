@@ -1,0 +1,27 @@
+[1] "Cerebellar volume regressed on cerebral volume. With Brain Volume."
+   R2_lik  R2_resid   R2_pred 
+0.9708433 0.9585472 0.9876037 
+[1] "Cerebellar volume regressed on cerebral volume. Without Brain Volume."
+   R2_lik  R2_resid   R2_pred 
+0.9699804 0.9575150 0.9877456 
+[1] "Compare the models - difference cerebellar-cerebral regressions"
+     R2_lik    R2_resid     R2_pred 
+ 0.02874492  0.02429522 -0.01158105 
+[1] "Ansiform area volume regressed on rest of cerebellar volume. With Brain Volume."
+   R2_lik  R2_resid   R2_pred 
+0.8567003 0.7509066 0.9597617 
+[1] "Ansiform area volume regressed on rest of cerebellar volume. Without Brain Volume."
+   R2_lik  R2_resid   R2_pred 
+0.8457143 0.7709775 0.9599694 
+[1] "Compare the models - difference ansiform-ROC regressions"
+      R2_lik     R2_resid      R2_pred 
+ 0.071205544 -0.087637292 -0.005190243 
+[1] "Ansiform area volume regressed on cerebral volume. With Brain Volume."
+   R2_lik  R2_resid   R2_pred 
+0.9028015 0.8382527 0.9499093 
+[1] "Ansiform area volume regressed on cerebral volume. Without Brain Volume."
+   R2_lik  R2_resid   R2_pred 
+0.8722606 0.8190796 0.9475048 
+[1] "Compare the models - difference - ansiform - cerebral regressions"
+      R2_lik     R2_resid      R2_pred 
+ 0.071205544 -0.087637292 -0.005190243 

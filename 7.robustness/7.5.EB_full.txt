@@ -1,0 +1,7 @@
+Phylogenetic trait variance-covariance
+              CerebellarVol  CerebralVol           CC
+CerebellarVol   0.008892941  0.008863792  0.001834889
+CerebralVol     0.008863792  0.009051087 -0.005972129
+CC              0.001834889 -0.005972129  0.288679652
+
+EB rate = -0.00789618

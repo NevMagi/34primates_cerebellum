@@ -1,0 +1,53 @@
+Phylogenetic trait variance-covariance
+                SurfaceArea   CerebralVol         AbsGI FoldingLength FoldingNumber        Lambda         Delta
+SurfaceArea    8.014627e+07  4.017009e+08  6.731024e+02  4.662056e+06 149161.544341 -1.276862e+03 2010.22544088
+CerebralVol    4.017009e+08  2.016423e+09  3.301661e+03  2.332132e+07 745822.317733 -5.484688e+03 9788.19444133
+AbsGI          6.731024e+02  3.301661e+03  7.573471e-03  4.013563e+01      1.283149 -3.842879e-02    0.02396874
+FoldingLength  4.662056e+06  2.332132e+07  4.013563e+01  2.723963e+05   8711.471553 -9.066444e+01  119.75165136
+FoldingNumber  1.491615e+05  7.458223e+05  1.283149e+00  8.711472e+03    279.564697 -2.816386e+00    3.90310496
+Lambda        -1.276862e+03 -5.484688e+03 -3.842879e-02 -9.066444e+01     -2.816386  6.409798e-01   -0.12715437
+Delta          2.010225e+03  9.788194e+03  2.396874e-02  1.197517e+02      3.903105 -1.271544e-01    0.08287903
+
+Phenotypic trait variance-covariance
+                SurfaceArea   CerebralVol         AbsGI FoldingLength FoldingNumber        Lambda         Delta
+SurfaceArea    1.571850e+08  8.512622e+08  971.06052546  9.141879e+06  2.955281e+05 -2.264240e+03 2167.52086443
+CerebralVol    8.512622e+08  4.831797e+09 4039.19107182  4.990213e+07  1.550562e+06 -8.432260e+03 8872.06757651
+AbsGI          9.710605e+02  4.039191e+03    0.01793868  5.528002e+01  2.397638e+00 -6.096789e-02    0.04226138
+FoldingLength  9.141879e+06  4.990213e+07   55.28001945  5.507100e+05  1.771790e+04 -1.550667e+02  105.84568579
+FoldingNumber  2.955281e+05  1.550562e+06    2.39763770  1.771790e+04  8.705900e+02 -7.665208e+00    5.14766680
+Lambda        -2.264240e+03 -8.432260e+03   -0.06096789 -1.550667e+02 -7.665208e+00  3.118111e-01   -0.10553447
+Delta          2.167521e+03  8.872068e+03    0.04226138  1.058457e+02  5.147667e+00 -1.055345e-01    0.13273498
+
+% variance explained by phylogeny
+  SurfaceArea   CerebralVol         AbsGI FoldingLength FoldingNumber        Lambda         Delta 
+     96.93146      96.10812      97.36128      97.09722      95.72287      99.01968      98.31082 
+Brownian motion model
+Phylogenetic trait variance-covariance
+                SurfaceArea   CerebralVol         AbsGI FoldingLength FoldingNumber        Lambda         Delta
+SurfaceArea   20277022.5181  96946748.814  2.686125e+02 1283492.25038  4.080017e+04 -1.543029e+03  909.84909388
+CerebralVol   96946748.8135 467325891.967  1.188056e+03 6091860.31932  1.933797e+05 -6.179221e+03 3977.25570390
+AbsGI              268.6125      1188.056  6.095082e-03      18.12189  5.761738e-01 -5.318378e-02    0.02182037
+FoldingLength  1283492.2504   6091860.319  1.812189e+01   82242.30201  2.597065e+03 -1.135223e+02   61.77526941
+FoldingNumber    40800.1676    193379.680  5.761738e-01    2597.06486  8.368920e+01 -3.617617e+00    1.97859850
+Lambda           -1543.0293     -6179.221 -5.318378e-02    -113.52230 -3.617617e+00  6.455078e-01   -0.19521886
+Delta              909.8491      3977.256  2.182037e-02      61.77527  1.978599e+00 -1.952189e-01    0.08030961
+
+Phenotypic trait variance-covariance
+                SurfaceArea   CerebralVol        AbsGI FoldingLength FoldingNumber        Lambda         Delta
+SurfaceArea    1.472776e+08  7.972366e+08  900.6621257  8.748684e+06  2.784751e+05 -2.333542e+03 1819.22382222
+CerebralVol    7.972366e+08  4.521277e+09 3788.5987965  4.750221e+07  1.487898e+06 -8.963140e+03 7603.07085680
+AbsGI          9.006621e+02  3.788599e+03    0.0165224  5.444024e+01  2.080512e+00 -6.055050e-02    0.03553640
+FoldingLength  8.748684e+06  4.750221e+07   54.4402388  5.373512e+05  1.756612e+04 -1.695003e+02   93.86579591
+FoldingNumber  2.784751e+05  1.487898e+06    2.0805116  1.756612e+04  7.675605e+02 -7.788919e+00    3.47003313
+Lambda        -2.333542e+03 -8.963140e+03   -0.0605505 -1.695003e+02 -7.788919e+00  3.253478e-01   -0.09263208
+Delta          1.819224e+03  7.603071e+03    0.0355364  9.386580e+01  3.470033e+00 -9.263208e-02    0.10932969
+
+% variance explained by phylogeny
+  SurfaceArea   CerebralVol         AbsGI FoldingLength FoldingNumber        Lambda         Delta 
+     97.12488      96.35824      97.56961      97.16764      96.22904      98.97712      98.60868 
+Star phylogeny model
+Log-likelihood full-BM	-2122.564
+Log-likelihood star	-2149.202
+chi_square	53.27594
+df	0
+p-value	0

@@ -1,0 +1,20 @@
+#NEXUS
+[created by the 10kTree Website - http://10kTrees.fas.harvard.edu]
+BEGIN TREES;
+translate
+1 Aotus_trivirgatus,
+2 Cebus_apella,
+3 Chlorocebus_sabaeus,
+4 Colobus_polykomos,
+5 Daubentonia_madagascariensis,
+6 Gorilla_gorilla_gorilla,
+7 Homo_sapiens,
+8 Lagothrix_lagotricha,
+9 Pan_paniscus,
+10 Pan_troglodytes_troglodytes,
+11 Papio_hamadryas,
+12 Pongo_pygmaeus,
+13 Saimiri_sciureus;
+tree consensus_13species = (((((3:14.875178,11:14.875178):6.535196,4:21.410374):8.589626,((6:8.652233,(7:6.175880,(9:2.333553,10:2.333553):3.842326):2.476353):6.480222,12:15.132455):14.867546):16.811821,(8:21.321300,(1:20.092527,(2:18.569905,13:18.569905):1.522623):1.228773):25.490521):26.191197,5:73.003017);
+END;<br />
+<b>Warning</b>:  session_write_close() expects exactly 0 parameters, 1 given in <b>/var/www/10ktrees.nunn-lab.org/sendTreesToUser.php</b> on line <b>98</b><br />

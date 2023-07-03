@@ -1,0 +1,66 @@
+WilsonReederName;English Name;SpecimenID;Wikipedia Name;BrainVolRaw;BrainVol;NoteBrainVol;WithoutBrainstem;FactorBrainstem;Sex;Age
+Cebus_apella;Tufted capuchin;ApelleCebusApell_f4b9;Tufted_capuchin;49291;4,692767629;;;;;
+Ateles_paniscus;Black spider monkey;Atele_6717;Red-faced_spider_monkey;104001;5,017037515;;;;;
+Ateles_paniscus;Black spider monkey;AteleAtelesAter_7245;Red-faced_spider_monkey;88712;4,94798237;;;;;
+Daubentonia_madagascariensis;Aye-aye;AyeAyeDaubentoni_cb56;Aye_aye;24275;4,385159239;;;;;
+Colobus_polykomos;King colobus;ColobeColobusPol_6118;King_colobus;49503;4,694631519;;;;;
+Aotus_trivirgatus;Douroucouli,Owl monkey,Northern night monkey;DouroucouliAotus_091c;Three-striped_night_monkey;14490;4,161068385;*;14363;1,008842164;;
+Galago_demidoff;Demidoff's galago;GalagoDemidoviiG_6cf3;Prince_Demidoffs_bushbaby;2526;3,402433346;*;2330;1,084120172;;
+Semnopithecus_entellus;Hanuman langur;LangurIndienPith_8390;Northern_plains_gray_langur;68720;4,837083151;;;;;
+Eulemur_mongoz;Mongoose lemur;LemurMongosLemur_b941;Mongoose_lemur;19580;4,291812687;;;;;
+Lepilemur_ruficaudatus;Red-tailed sportive lemur;LepilemurAQueueR_309f;Red-tailed_sportive_lemur;6518;3,814114356;;;;;
+Lemur_catta;Ring-tailed lemur;MakiCattaLemurCa_dec8;Ring-tailed_lemur;16170;4,20871002;;;;;
+Cercocebus_atys;Sooty mangabey;MangabeyCouronne_6b65;Cercocebus_lunulatus;63184;4,800607116;;;;;
+Saguinus_oedipus;Cotton-top tamarin;MarsousetOedipom_e834;Cotton-top_tamarin;7845;3,894592948;;;;;
+Mirza_coquereli;Coquerel's mouse lemur;MicrocebeDeCoque_e3a9;Coquerels_giant_mouse_lemur;5286;3,723127159;;;;;
+Microcebus_murinus;Grey mouse lemur;MicrocebeMignonM_ca6c;Gray_mouse_lemur;1027;3,011570444;;;;;
+Cercopithecus_cephus_cephus;Moustached guenon;MoustacLasiopygi_23cc;Moustached_guenon;49127;4,691320244;;;;;
+Loris_tardigradus;Red slender loris;NycticebusTardig_08cb;Red_slender_loris;3916;3,592842683;*;3705;1,056950067;;
+Callithrix_penicillata;Black-pencilled marmoset;OuistitiAPinceau_b4aa;Black-tufted_marmoset;4620;3,664641976;;;;;
+Trachypithecus_(Trachypithecus)_germaini;Indochinese lutung;PithecusGermaini_6a2c;Indochinese_lutung;45834;4,66118776;;;;;
+Saimiri_sciureus;Common squirrel monkey;SaimiriCassiquia_7176;Squirrel_monkey;10551;4,66118776;;;;;
+Saimiri_sciureus;Common squirrel monkey;SaimiriCassiquia_eb44;Squirrel_monkey;9142;3,961041217;;;;;
+Lagothrix_lagotricha;Common woolly monkey;SingeLaineuxLago_0f84;Brown_woolly_monkey;59575;4,775064051;;;;;
+Varecia_variegata_variegata;Black-and-white ruffed lemur;VariNoirEtBlancL_4d0e;Black-and-white_ruffed_lemur;19809;4,295589089;"*Non brain included; had brainstem";19751;1,00293656;;
+Chlorocebus_sabaeus;Green monkey;VervetCercopithe_72ae;Green_monkey;64347;4,808528304;;;;;
+Papio_hamadryas;Hamadryas baboon;BabouinCercopith_a723;Hamadryas_baboon;107713;5,032268122;;;;;
+Macaca_fascicularis;Crab-eating macaque;MacacaFascicular_3a21;Crab-eating_macaque;69550;4,842297134;;;;;
+Macaca_fascicularis;Crab-eating macaque;MacacaFascicularis_32200;Crab-eating_macaque;66312;4,821592127;;;;;
+Macaca_fascicularis;Crab-eating macaque;MacacaFascicularis_32202;Crab-eating_macaque;78857;4,896840251;;;;;
+Macaca_fascicularis;Crab-eating macaque;MacacaFascicularis_32204;Crab-eating_macaque;69117;4,839584879;;;;;
+Macaca_fascicularis;Crab-eating macaque;MacacaFascicularis_32205;Crab-eating_macaque;84919;4,929004871;;;;;
+Macaca_fascicularis;Crab-eating macaque;MacacaFascicularis_mf01;Crab-eating_macaque;64420;4,80902072;;;;;
+Macaca_fascicularis;Crab-eating macaque;MacacaFascicularis_mf02;Crab-eating_macaque;60547;4,782092629;;;;;
+Macaca_fascicularis;Crab-eating macaque;MacaqueCrabierMa_8f9e;Crab-eating_macaque;27616;4,441160774;;;;;
+Gorilla_beringei_graueri;Eastern lowland gorilla;GorillaBeringeiG_0854;Eastern gorilla;366139;5,563645991;;;;;
+Gorilla_gorilla_gorilla;Western lowland gorilla;Gorilla_kinyani;Western lowland gorilla;342058;5,534099752;;;;;
+Lophocebus_albigena;Grey-cheeked mangabey;MangabeyCercoceb_4458;Grey-cheeked_mangabey;58109;4,764243402;;;;;
+Cebus_capucinus;White-faced sapajou;SapajouCapucinCe_d971;White-headed_capuchin;48512;4,68584918;;;;;
+Pongo_pygmaeus;Bornean orangutan;Orangutan_80bb;Orangutan;232460;5,366348233;*;;;;
+Macaca_mulatta;Rhesus monkey;MacaqueRhesusMac_bdf8;Rhesus_macaque;;#NUM!;;;;;
+Macaca_mulatta;Rhesus monkey;MacacaMulatta_32198;Rhesus_macaque;102891;5,012377388;5,023145417;;;;
+Macaca_mulatta;Rhesus monkey;MacacaMulatta_32199;Rhesus_macaque;105474;5,023145417;;;;;
+Macaca_mulatta;Rhesus monkey;MacacaMulatta_32201;Rhesus_macaque;107067;5,029655634;;;;;
+Macaca_mulatta;Rhesus monkey;MacacaMulatta_32203;Rhesus_macaque;99008;4,995670288;;;;;
+Macaca_mulatta;Rhesus monkey;MacacaMulatta_mm01;Rhesus_macaque;108433;5,035161474;;;;;
+Pan_troglodytes_troglodytes;Central chimpanzee;Chimp_Abby_Yerkes;Chimpanzee;368298;5,56619936;FreeSurfer;;;F;
+Pan_troglodytes_troglodytes;Central chimpanzee;Chimp_Amanda_Yerkes;Chimpanzee;352889;5,547638121;FreeSurfer;;;F;
+Pan_troglodytes_troglodytes;Central chimpanzee;Chimp_Artemus_Yerkes;Chimpanzee;300287;5,477536531;FreeSurfer;;;M;
+Pan_troglodytes_troglodytes;Central chimpanzee;Chimp_Arthur_Yerkes;Chimpanzee;333074;5,522540733;FreeSurfer;;;M;
+Pan_troglodytes_troglodytes;Central chimpanzee;Chimp_Azalea_Yerkes;Chimpanzee;288776;5,460561096;FreeSurfer;;;F;
+Pan_troglodytes_troglodytes;Central chimpanzee;Chimp_Barbara_Yerkes;Chimpanzee;337983;5,528894857;FreeSurfer;;;F;
+Pan_troglodytes_troglodytes;Central chimpanzee;Chimp_Barney_Yerkes;Chimpanzee;356795;5,55241876;FreeSurfer;;;M;
+Pan_troglodytes_troglodytes;Central chimpanzee;Chimp_Carl_Yerkes;Chimpanzee;303525;5,482194468;FreeSurfer;;;M;
+Pan_troglodytes_troglodytes;Central chimpanzee;Chimp_David_Yerkes;Chimpanzee;334221;5,524033734;FreeSurfer;;;M;
+Homo_sapiens;Human;Human_51058;Human;1107169;6,044213917;FreeSurfer;;;F;22,11
+Homo_sapiens;Human;Human_51060;Human;1032506;6,013892584;FreeSurfer;;;F;22,72
+Homo_sapiens;Human;Human_51061;Human;992788;5,996856519;FreeSurfer;;;F;27,03
+Homo_sapiens;Human;Human_51062;Human;974182;5,988640101;FreeSurfer;;;F;27,76
+Homo_sapiens;Human;Human_51063;Human;1189144;6,075234449;FreeSurfer;;;F;29,13
+Homo_sapiens;Human;Human_51114;Human;1370516;6,13688411;FreeSurfer;;;M;22,48
+Homo_sapiens;Human;Human_51116;Human;1285853;6,109191322;FreeSurfer;;;M;25,34
+Homo_sapiens;Human;Human_51118;Human;1099224;6,041086202;FreeSurfer;;;M;29,02
+Homo_sapiens;Human;Human_51152;Human;1260945;6,100696144;FreeSurfer;;;M;23,35
+Homo_sapiens;Human;Human_51153;Human;1284138;6,108611698;FreeSurfer;;;M;26,17
+Pan_paniscus;Pygmy chimpanzee;Bonobo_brian;Bonobo;350015;5,544086657;;;;;
+Hylobates_lar;Common gibbon;Gibbon_buddy;Gibbon;87842;4,943702215;;;;;

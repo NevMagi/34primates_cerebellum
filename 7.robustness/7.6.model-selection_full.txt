@@ -1,0 +1,6 @@
+Brownian motion	-19.12873
+Ornstein-Uhlenbeck, single alpha	7260.311
+Ornstein-Uhlenbeck, diagonal alpha matrix	-16.03289
+Ornstein-Uhlenbeck, full alpha matrix	3.113132
+Early burst	-17.51683
+Star model, lambda = 0	65.47015

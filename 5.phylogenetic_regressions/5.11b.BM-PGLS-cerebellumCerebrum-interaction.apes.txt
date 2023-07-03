@@ -1,0 +1,25 @@
+Denom. DF: 30 
+                          numDF   F-value p-value
+(Intercept)                   1 1322.1434  <.0001
+MedianCerebrum                1  369.9023  <.0001
+Hominoidea                    1    1.7840  0.1917
+MedianCerebrum:Hominoidea     1    1.1695  0.2881
+                    (Intercept)                  MedianCerebrum                HominoideaNonape MedianCerebrum:HominoideaNonape 
+                     0.06280272                      0.85012468                     -0.77150487                      0.12179900 
+ contrast     estimate    SE df t.ratio p.value
+ Ape - Nonape   -0.122 0.113 29  -1.081  0.2884
+
+Degrees-of-freedom method: df.error 
+[1] 0.9696283
+[1] 0.9992159
+[1] 0.9845162
+Call: paired.r(xy = mod1.correlation, xz = mod1.ape.correlation, n = phenoMedian.dt[Hominoidea %in% 
+    c("Ape", "Nonape"), .N])
+[1] "test of difference between two independent correlations"
+z = 7.23  With probability =  0Call: paired.r(xy = mod1.correlation, xz = mod1.nonape.correlation, 
+    n = phenoMedian.dt[Hominoidea %in% c("Ape", "Nonape"), .N])
+[1] "test of difference between two independent correlations"
+z = 1.34  With probability =  0.18Call: paired.r(xy = mod1.nonape.correlation, xz = mod1.ape.correlation, 
+    n = phenoMedian.dt[Hominoidea %in% c("Ape", "Nonape"), .N])
+[1] "test of difference between two independent correlations"
+z = 5.89  With probability =  0

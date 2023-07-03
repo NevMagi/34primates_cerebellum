@@ -1,0 +1,19 @@
+
+Call:
+lm(formula = pic.AA13 ~ pic.V13)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-0.18518 -0.10937 -0.05615  0.13854  0.29327 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept) -0.08457    0.05253   -1.61    0.138    
+pic.V13      1.29428    0.09183   14.09 6.35e-08 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.1716 on 10 degrees of freedom
+Multiple R-squared:  0.9521,	Adjusted R-squared:  0.9473 
+F-statistic: 198.6 on 1 and 10 DF,  p-value: 6.353e-08
+

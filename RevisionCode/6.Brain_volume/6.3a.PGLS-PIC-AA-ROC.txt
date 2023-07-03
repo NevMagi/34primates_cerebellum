@@ -1,0 +1,49 @@
+Generalized least squares fit by REML
+  Model: MedianCrus ~ MedianROC 
+  Data: speciesAA 
+      AIC      BIC    logLik
+  11.5656 12.75928 -2.782798
+
+Correlation Structure: corBrownian
+ Formula: ~1 
+ Parameter estimate(s):
+numeric(0)
+
+Coefficients:
+                Value Std.Error   t-value p-value
+(Intercept) -1.833182 0.8078158 -2.269307  0.0444
+MedianROC    1.297313 0.2067557  6.274615  0.0001
+
+ Correlation: 
+          (Intr)
+MedianROC -0.931
+
+Standardized residuals:
+        Min          Q1         Med          Q3         Max 
+-0.68907955 -0.07442010  0.01648095  0.12319196  0.28497907 
+
+Residual standard error: 0.4939351 
+Degrees of freedom: 13 total; 11 residual
+(Intercept)   MedianROC 
+  -1.833182    1.297313 
+[1] "---------------------------"
+
+Call:
+lm(formula = pic.AA.AA ~ pic.ROC.AA + 0)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-0.27786 -0.09601 -0.04045  0.02983  0.12004 
+
+Coefficients:
+           Estimate Std. Error t value Pr(>|t|)    
+pic.ROC.AA   1.2374     0.0609   20.32 4.51e-10 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.1132 on 11 degrees of freedom
+Multiple R-squared:  0.9741,	Adjusted R-squared:  0.9717 
+F-statistic: 412.9 on 1 and 11 DF,  p-value: 4.508e-10
+
+pic.ROC.AA 
+  1.237377 

@@ -1,0 +1,100 @@
+[1] "Cerebellum regressed on cerebrum."
+
+Call:
+lm(formula = MedianCerebellum ~ MedianCerebrum, data = phenoMedian)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.261780 -0.096312 -0.000819  0.091251  0.254856 
+
+Coefficients:
+               Estimate Std. Error t value Pr(>|t|)    
+(Intercept)    -0.72420    0.14366  -5.041 1.76e-05 ***
+MedianCerebrum  0.97392    0.03165  30.773  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.1264 on 32 degrees of freedom
+Multiple R-squared:  0.9673,	Adjusted R-squared:  0.9663 
+F-statistic:   947 on 1 and 32 DF,  p-value: < 2.2e-16
+
+[1] "Cerebellum regressed on cerebrum, 13 species, complete data (no NAs."
+
+Call:
+lm(formula = MedianCerebellum ~ MedianCerebrum, data = phenoMedianAA)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-0.25049 -0.08385  0.02467  0.09900  0.19392 
+
+Coefficients:
+               Estimate Std. Error t value Pr(>|t|)    
+(Intercept)    -1.26375    0.30255  -4.177  0.00154 ** 
+MedianCerebrum  1.08561    0.06173  17.587 2.11e-09 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.1302 on 11 degrees of freedom
+Multiple R-squared:  0.9657,	Adjusted R-squared:  0.9625 
+F-statistic: 309.3 on 1 and 11 DF,  p-value: 2.112e-09
+
+[1] "Ansiform area regressed on cerebellum."
+
+Call:
+lm(formula = MedianCrus ~ MedianCerebellum, data = phenoMedianAA)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.215147 -0.028370  0.004891  0.059861  0.106957 
+
+Coefficients:
+                 Estimate Std. Error t value Pr(>|t|)    
+(Intercept)      -1.46268    0.15415  -9.489 1.25e-06 ***
+MedianCerebellum  1.17380    0.03787  30.999 4.67e-12 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.08825 on 11 degrees of freedom
+Multiple R-squared:  0.9887,	Adjusted R-squared:  0.9877 
+F-statistic:   961 on 1 and 11 DF,  p-value: 4.667e-12
+
+[1] "Ansiform area regressed on rest of cerebellum."
+
+Call:
+lm(formula = MedianCrus ~ MedianROC, data = phenoMedianAA)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-0.27329 -0.04438  0.01671  0.07929  0.12427 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept) -1.51412    0.20163  -7.509 1.19e-05 ***
+MedianROC    1.21375    0.05068  23.948 7.68e-11 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.1138 on 11 degrees of freedom
+Multiple R-squared:  0.9812,	Adjusted R-squared:  0.9795 
+F-statistic: 573.5 on 1 and 11 DF,  p-value: 7.677e-11
+
+[1] "Ansiform area regressed on cerebrum."
+
+Call:
+lm(formula = MedianCrus ~ MedianCerebrum, data = phenoMedianAA)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-0.37674 -0.09291  0.00152  0.12551  0.21116 
+
+Coefficients:
+               Estimate Std. Error t value Pr(>|t|)    
+(Intercept)    -2.96356    0.38487   -7.70 9.38e-06 ***
+MedianCerebrum  1.27788    0.07852   16.27 4.82e-09 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.1657 on 11 degrees of freedom
+Multiple R-squared:  0.9601,	Adjusted R-squared:  0.9565 
+F-statistic: 264.8 on 1 and 11 DF,  p-value: 4.817e-09
+

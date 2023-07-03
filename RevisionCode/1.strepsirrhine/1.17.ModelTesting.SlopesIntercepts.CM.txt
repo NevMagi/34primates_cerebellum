@@ -1,0 +1,12 @@
+[1] "(1) Differences in slopes, holding intercept constant:"
+             df Sum Sq Mean Sum Sq F value Pr(>F)
+FullModel     3 4.1961      0.1399  0.0214 0.8847
+ReducedModel  2 4.1991      0.1355               
+[1] "(2) Differences in intercept, holding slopes constant:"
+             df Sum Sq Mean Sum Sq F value Pr(>F)
+FullModel     3  4.199        0.14  0.0012 0.9729
+ReducedModel  2 4.1991      0.1355               
+[1] "(3) Differences in slopes and differences in intercept:"
+             df Sum Sq Mean Sum Sq F value Pr(>F)
+FullModel     4 4.1959      0.1447   0.011 0.9891
+ReducedModel  2 4.1991      0.1355               

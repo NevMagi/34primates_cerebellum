@@ -1,0 +1,258 @@
+[1] "Ratios regressed on body mass and brain volume."
+
+Call:
+lm(formula = MedianCerebroCerebellar ~ mass, data = CCmass)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-7.3569 -3.2787 -0.8492  2.5179  9.6426 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  15.2199     0.9332  16.309   <2e-16 ***
+mass         -0.1400     0.9102  -0.154    0.879    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 4.43 on 31 degrees of freedom
+Multiple R-squared:  0.0007631,	Adjusted R-squared:  -0.03147 
+F-statistic: 0.02367 on 1 and 31 DF,  p-value: 0.8787
+
+
+Call:
+lm(formula = MedianCerebroCerebellar ~ BrainVol, data = CCBrainVol)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-7.0378 -3.5006 -0.7336  2.6862 10.3757 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)   18.899      5.210   3.628 0.000984 ***
+BrainVol      -0.850      1.119  -0.760 0.453091    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 4.417 on 32 degrees of freedom
+Multiple R-squared:  0.01771,	Adjusted R-squared:  -0.01299 
+F-statistic: 0.5769 on 1 and 32 DF,  p-value: 0.4531
+
+
+Call:
+lm(formula = MedianCerebellarCrus ~ mass, data = AAmass)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-8.1334 -2.5781  0.3888  1.9000  7.4936 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)   11.442      2.139   5.349 0.000234 ***
+mass           6.520      1.724   3.782 0.003035 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 4.331 on 11 degrees of freedom
+Multiple R-squared:  0.5653,	Adjusted R-squared:  0.5258 
+F-statistic: 14.31 on 1 and 11 DF,  p-value: 0.003035
+[1] 363078.1
+[1] 363078.1
+[1] "/Users/nmagielse/Documents/PhD/EvolutionPrimates/Final_code"
+[1mindexed[0m [32m0B[0m in [36m 0s[0m, [32m0B/s[0m[1mindexed[0m [32m1.00TB[0m in [36m 0s[0m, [32m1.61PB/s[0m                                                                                                                                    ***************************************************************
+*                          Note:                              *
+*    force.ultrametric does not include a formal method to    *
+*    ultrametricize a tree & should only be used to coerce    *
+*   a phylogeny that fails is.ultramtric due to rounding --   *
+*    not as a substitute for formal rate-smoothing methods.   *
+***************************************************************
+***************************************************************
+*                          Note:                              *
+*    force.ultrametric does not include a formal method to    *
+*    ultrametricize a tree & should only be used to coerce    *
+*   a phylogeny that fails is.ultramtric due to rounding --   *
+*    not as a substitute for formal rate-smoothing methods.   *
+***************************************************************
+[1mindexed[0m [32m0B[0m in [36m 0s[0m, [32m0B/s[0m[1mindexed[0m [32m1.00TB[0m in [36m 0s[0m, [32m1.08PB/s[0m                                                                                                                                    ***************************************************************
+*                          Note:                              *
+*    force.ultrametric does not include a formal method to    *
+*    ultrametricize a tree & should only be used to coerce    *
+*   a phylogeny that fails is.ultramtric due to rounding --   *
+*    not as a substitute for formal rate-smoothing methods.   *
+***************************************************************
+***************************************************************
+*                          Note:                              *
+*    force.ultrametric does not include a formal method to    *
+*    ultrametricize a tree & should only be used to coerce    *
+*   a phylogeny that fails is.ultramtric due to rounding --   *
+*    not as a substitute for formal rate-smoothing methods.   *
+***************************************************************
+[1mindexed[0m [32m0B[0m in [36m 0s[0m, [32m0B/s[0m[1mindexed[0m [32m1.00TB[0m in [36m 0s[0m, [32m2.09PB/s[0m                                                                                                                                    [1mindexed[0m [32m0B[0m in [36m 0s[0m, [32m0B/s[0m[1mindexed[0m [32m1.00TB[0m in [36m 0s[0m, [32m1.22PB/s[0m                                                                                                                                                  x            y        species
+1  -0.004803708  0.066754534    Haplorhines
+2   0.918030337  0.606535027    Haplorhines
+3  -0.484126156 -0.589791124    Haplorhines
+4   0.467756051  0.941991358    Haplorhines
+5   0.456517858  0.952052072    Haplorhines
+6   0.934498451 -0.443681110    Haplorhines
+7   0.554489160  0.568641001    Haplorhines
+8   0.634678752  0.862652276    Haplorhines
+9   0.959041392 -1.118534272    Haplorhines
+10  0.407390904 -0.462199719 Strepsirrhines
+11  0.083502620  0.399543570 Strepsirrhines
+12 -1.124938737  0.697169643 Strepsirrhines
+13  2.113943352 -1.300318911           Apes
+14  2.082605873 -1.327555295           Apes
+15  1.812913357  2.643229605           Apes
+16  0.747800091  1.114739938           Apes
+17  0.854306042 -0.243428184    Haplorhines
+18  0.344392274 -1.148089065 Strepsirrhines
+19 -0.094204120 -1.427213654 Strepsirrhines
+20  0.841984805 -0.249843299    Haplorhines
+21 -0.714442691 -0.006234601 Strepsirrhines
+22  0.628491105  1.063498200    Haplorhines
+23  0.832061615  1.187963691    Haplorhines
+24 -1.187086643 -1.148411294 Strepsirrhines
+25 -0.505845406 -0.182904269 Strepsirrhines
+26  1.592176757  0.793260480           Apes
+27  1.722222464  0.137044478           Apes
+28  1.150756440 -0.106021289    Haplorhines
+29  1.767467555 -0.903876951           Apes
+30 -0.365522730  0.150224092    Haplorhines
+31 -0.097453221  1.266275880    Haplorhines
+32  1.168556407 -1.233467215    Haplorhines
+33  0.553276046 -1.560005596 Strepsirrhines
+              x            y        species
+1  -0.004803708  0.066754534    Haplorhines
+2   0.918030337  0.606535027    Haplorhines
+3  -0.484126156 -0.589791124    Haplorhines
+4   0.467756051  0.941991358    Haplorhines
+5   0.456517858  0.952052072    Haplorhines
+6   0.934498451 -0.443681110    Haplorhines
+7   0.554489160  0.568641001    Haplorhines
+8   0.634678752  0.862652276    Haplorhines
+9   0.959041392 -1.118534272    Haplorhines
+10  0.407390904 -0.462199719 Strepsirrhines
+11  0.083502620  0.399543570 Strepsirrhines
+12 -1.124938737  0.697169643 Strepsirrhines
+13  2.113943352 -1.300318911           Apes
+14  2.082605873 -1.327555295           Apes
+15  1.812913357  2.643229605           Apes
+16  0.747800091  1.114739938           Apes
+17  0.854306042 -0.243428184    Haplorhines
+18  0.344392274 -1.148089065 Strepsirrhines
+19 -0.094204120 -1.427213654 Strepsirrhines
+20  0.841984805 -0.249843299    Haplorhines
+21 -0.714442691 -0.006234601 Strepsirrhines
+22  0.628491105  1.063498200    Haplorhines
+23  0.832061615  1.187963691    Haplorhines
+24 -1.187086643 -1.148411294 Strepsirrhines
+25 -0.505845406 -0.182904269 Strepsirrhines
+26  1.592176757  0.793260480           Apes
+27  1.722222464  0.137044478           Apes
+28  1.150756440 -0.106021289    Haplorhines
+29  1.767467555 -0.903876951           Apes
+30 -0.365522730  0.150224092    Haplorhines
+31 -0.097453221  1.266275880    Haplorhines
+32  1.168556407 -1.233467215    Haplorhines
+33  0.553276046 -1.560005596 Strepsirrhines
+              x            y        species
+1  -0.004803708  0.066754534    Haplorhines
+2   0.918030337  0.606535027    Haplorhines
+3  -0.484126156 -0.589791124    Haplorhines
+4   0.467756051  0.941991358    Haplorhines
+5   0.456517858  0.952052072    Haplorhines
+6   0.934498451 -0.443681110    Haplorhines
+7   0.554489160  0.568641001    Haplorhines
+8   0.634678752  0.862652276    Haplorhines
+9   0.959041392 -1.118534272    Haplorhines
+10  0.407390904 -0.462199719 Strepsirrhines
+11  0.083502620  0.399543570 Strepsirrhines
+12 -1.124938737  0.697169643 Strepsirrhines
+13  2.113943352 -1.300318911           Apes
+14  2.082605873 -1.327555295           Apes
+15  1.812913357  2.643229605           Apes
+16  0.747800091  1.114739938           Apes
+17  0.854306042 -0.243428184    Haplorhines
+18  0.344392274 -1.148089065 Strepsirrhines
+19 -0.094204120 -1.427213654 Strepsirrhines
+20  0.841984805 -0.249843299    Haplorhines
+21 -0.714442691 -0.006234601 Strepsirrhines
+22  0.628491105  1.063498200    Haplorhines
+23  0.832061615  1.187963691    Haplorhines
+24 -1.187086643 -1.148411294 Strepsirrhines
+25 -0.505845406 -0.182904269 Strepsirrhines
+26  1.592176757  0.793260480           Apes
+27  1.722222464  0.137044478           Apes
+28  1.150756440 -0.106021289    Haplorhines
+29  1.767467555 -0.903876951           Apes
+30 -0.365522730  0.150224092    Haplorhines
+31 -0.097453221  1.266275880    Haplorhines
+32  1.168556407 -1.233467215    Haplorhines
+33  0.553276046 -1.560005596 Strepsirrhines
+              x            y        species
+1  -0.004803708  0.066754534    Haplorhines
+2   0.918030337  0.606535027    Haplorhines
+3  -0.484126156 -0.589791124    Haplorhines
+4   0.467756051  0.941991358    Haplorhines
+5   0.456517858  0.952052072    Haplorhines
+6   0.934498451 -0.443681110    Haplorhines
+7   0.554489160  0.568641001    Haplorhines
+8   0.634678752  0.862652276    Haplorhines
+9   0.959041392 -1.118534272    Haplorhines
+10  0.407390904 -0.462199719 Strepsirrhines
+11  0.083502620  0.399543570 Strepsirrhines
+12 -1.124938737  0.697169643 Strepsirrhines
+13  2.113943352 -1.300318911           Apes
+14  2.082605873 -1.327555295           Apes
+15  1.812913357  2.643229605           Apes
+16  0.747800091  1.114739938           Apes
+17  0.854306042 -0.243428184    Haplorhines
+18  0.344392274 -1.148089065 Strepsirrhines
+19 -0.094204120 -1.427213654 Strepsirrhines
+20  0.841984805 -0.249843299    Haplorhines
+21 -0.714442691 -0.006234601 Strepsirrhines
+22  0.628491105  1.063498200    Haplorhines
+23  0.832061615  1.187963691    Haplorhines
+24 -1.187086643 -1.148411294 Strepsirrhines
+25 -0.505845406 -0.182904269 Strepsirrhines
+26  1.592176757  0.793260480           Apes
+27  1.722222464  0.137044478           Apes
+28  1.150756440 -0.106021289    Haplorhines
+29  1.767467555 -0.903876951           Apes
+30 -0.365522730  0.150224092    Haplorhines
+31 -0.097453221  1.266275880    Haplorhines
+32  1.168556407 -1.233467215    Haplorhines
+33  0.553276046 -1.560005596 Strepsirrhines
+              x            y        species
+1  -0.004803708  0.066754534    Haplorhines
+2   0.918030337  0.606535027    Haplorhines
+3  -0.484126156 -0.589791124    Haplorhines
+4   0.467756051  0.941991358    Haplorhines
+5   0.456517858  0.952052072    Haplorhines
+6   0.934498451 -0.443681110    Haplorhines
+7   0.554489160  0.568641001    Haplorhines
+8   0.634678752  0.862652276    Haplorhines
+9   0.959041392 -1.118534272    Haplorhines
+10  0.407390904 -0.462199719 Strepsirrhines
+11  0.083502620  0.399543570 Strepsirrhines
+12 -1.124938737  0.697169643 Strepsirrhines
+13  2.113943352 -1.300318911           Apes
+14  2.082605873 -1.327555295           Apes
+15  1.812913357  2.643229605           Apes
+16  0.747800091  1.114739938           Apes
+17  0.854306042 -0.243428184    Haplorhines
+18  0.344392274 -1.148089065 Strepsirrhines
+19 -0.094204120 -1.427213654 Strepsirrhines
+20  0.841984805 -0.249843299    Haplorhines
+21 -0.714442691 -0.006234601 Strepsirrhines
+22  0.628491105  1.063498200    Haplorhines
+23  0.832061615  1.187963691    Haplorhines
+24 -1.187086643 -1.148411294 Strepsirrhines
+25 -0.505845406 -0.182904269 Strepsirrhines
+26  1.592176757  0.793260480           Apes
+27  1.722222464  0.137044478           Apes
+28  1.150756440 -0.106021289    Haplorhines
+29  1.767467555 -0.903876951           Apes
+30 -0.365522730  0.150224092    Haplorhines
+31 -0.097453221  1.266275880    Haplorhines
+32  1.168556407 -1.233467215    Haplorhines
+33  0.553276046 -1.560005596 Strepsirrhines

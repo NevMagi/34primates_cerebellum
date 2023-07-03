@@ -1,0 +1,28 @@
+ Single Score Intraclass Correlation
+
+   Model: oneway 
+   Type : agreement 
+
+   Subjects = 10 
+     Raters = 2 
+     ICC(1) = 0.255
+
+ F-Test, H0: r0 = 0 ; H1: r0 > 0 
+    F(9,10) = 1.68 , p = 0.214 
+
+ 95%-Confidence Interval for ICC Population Values:
+  -0.384 < ICC < 0.739
+ Single Score Intraclass Correlation
+
+   Model: oneway 
+   Type : agreement 
+
+   Subjects = 10 
+     Raters = 2 
+     ICC(1) = 0.843
+
+ F-Test, H0: r0 = 0 ; H1: r0 > 0 
+    F(9,10) = 11.7 , p = 0.000321 
+
+ 95%-Confidence Interval for ICC Population Values:
+  0.512 < ICC < 0.958

@@ -1,0 +1,54 @@
+Generalized least squares fit by REML
+  Model: MedianCrus ~ MedianCerebrum 
+  Data: SUSPICIOUSAA 
+       AIC        BIC   logLik
+  3.656859 -0.2636997 1.171571
+
+Correlation Structure: corBrownian
+ Formula: ~1 
+ Parameter estimate(s):
+numeric(0)
+
+Coefficients:
+                   Value Std.Error   t-value p-value
+(Intercept)    -2.858589 0.3701533 -7.722717  0.0164
+MedianCerebrum  1.261262 0.0801488 15.736509  0.0040
+
+ Correlation: 
+               (Intr)
+MedianCerebrum -0.982
+
+Standardized residuals:
+Daubentonia_madagascariensis         Lagothrix_lagotricha               Pongo_pygmaeus             Saimiri_sciureus 
+                 0.813721149                 -1.072966586                  0.007959116                 -0.780019945 
+attr(,"std")
+[1] 0.1117216 0.1117216 0.1117216 0.1117216
+attr(,"label")
+[1] "Standardized residuals"
+
+Residual standard error: 0.1117216 
+Degrees of freedom: 4 total; 2 residual
+   (Intercept) MedianCerebrum 
+     -2.858589       1.261262 
+[1] "---------------------------"
+
+Call:
+lm(formula = pic.AA.nosuspiciousAA ~ pic.ROC.nosuspiciousAA + 
+    0)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.182626 -0.023378 -0.003303  0.006197  0.033775 
+
+Coefficients:
+                       Estimate Std. Error t value Pr(>|t|)   
+pic.ROC.nosuspiciousAA   1.3239     0.2969   4.459  0.00294 **
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.07165 on 7 degrees of freedom
+Multiple R-squared:  0.7396,	Adjusted R-squared:  0.7024 
+F-statistic: 19.88 on 1 and 7 DF,  p-value: 0.002941
+
+pic.ROC.nosuspiciousAA 
+              1.323865 

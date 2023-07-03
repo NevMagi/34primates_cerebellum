@@ -1,0 +1,19 @@
+
+Call:
+lm(formula = pic.AA.hapl ~ pic.ROC.hapl)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.160749 -0.001167  0.017589  0.024996  0.050254 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  -0.02230    0.01873  -1.190  0.26431    
+pic.ROC.hapl  1.37328    0.22354   6.143  0.00017 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.05938 on 9 degrees of freedom
+Multiple R-squared:  0.8074,	Adjusted R-squared:  0.786 
+F-statistic: 37.74 on 1 and 9 DF,  p-value: 0.0001701
+

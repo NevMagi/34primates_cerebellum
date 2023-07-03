@@ -1,0 +1,66 @@
+WilsonReederName;English Name;SpecimenID;Wikipedia Name;Hominoidea;Clade
+Cebus_apella;Tufted capuchin;ApelleCebusApell_f4b9;Tufted_capuchin;Nonape;Cebidae
+Ateles_paniscus;Black spider monkey;Atele_6717;Red-faced_spider_monkey;Nonape;Atelidae
+Ateles_paniscus;Black spider monkey;AteleAtelesAter_7245;Red-faced_spider_monkey;Nonape;Atelidae
+Daubentonia_madagascariensis;Aye-aye;AyeAyeDaubentoni_cb56;Aye_aye;Nonape;Lemuriformes
+Colobus_polykomos;King colobus;ColobeColobusPol_6118;King_colobus;Nonape;Colobinae
+Aotus_trivirgatus;Douroucouli,Owl monkey,Northern night monkey;DouroucouliAotus_091c;Three-striped_night_monkey;Nonape;Cebidae
+Galago_demidoff;Demidoff's galago;GalagoDemidoviiG_6cf3;Prince_Demidoffs_bushbaby;Nonape;Galagonidae
+Semnopithecus_entellus;Hanuman langur;LangurIndienPith_8390;Northern_plains_gray_langur;Nonape;Colobinae
+Eulemur_mongoz;Mongoose lemur;LemurMongosLemur_b941;Mongoose_lemur;Nonape;Lemuriformes
+Lepilemur_ruficaudatus;Red-tailed sportive lemur;LepilemurAQueueR_309f;Red-tailed_sportive_lemur;Nonape;Lemuriformes
+Lemur_catta;Ring-tailed lemur;MakiCattaLemurCa_dec8;Ring-tailed_lemur;Nonape;Lemuriformes
+Cercocebus_atys;Sooty mangabey;MangabeyCouronne_6b65;Cercocebus_lunulatus;Nonape;Papionini
+Saguinus_oedipus;Cotton-top tamarin;MarsousetOedipom_e834;Cotton-top_tamarin;Nonape;Cebidae
+Mirza_coquereli;Coquerel's mouse lemur;MicrocebeDeCoque_e3a9;Coquerels_giant_mouse_lemur;Nonape;Lemuriformes
+Microcebus_murinus;Grey mouse lemur;MicrocebeMignonM_ca6c;Gray_mouse_lemur;Nonape;Lemuriformes
+Cercopithecus_cephus_cephus;Moustached guenon;MoustacLasiopygi_23cc;Moustached_guenon;Nonape;Cercopithecini
+Loris_tardigradus;Red slender loris;NycticebusTardig_08cb;Red_slender_loris;Nonape;Loridae
+Callithrix_penicillata;Black-pencilled marmoset;OuistitiAPinceau_b4aa;Black-tufted_marmoset;Nonape;Cebidae
+Trachypithecus_(Trachypithecus)_germaini;Indochinese lutung;PithecusGermaini_6a2c;Indochinese_lutung;Nonape;Colobinae
+Saimiri_sciureus;Common squirrel monkey;SaimiriCassiquia_7176;Squirrel_monkey;Nonape;Cebidae
+Saimiri_sciureus;Common squirrel monkey;SaimiriCassiquia_eb44;Squirrel_monkey;Nonape;Cebidae
+Lagothrix_lagotricha;Common woolly monkey;SingeLaineuxLago_0f84;Brown_woolly_monkey;Nonape;Atelidae
+Varecia_variegata_variegata;Black-and-white ruffed lemur;VariNoirEtBlancL_4d0e;Black-and-white_ruffed_lemur;Nonape;Lemuriformes
+Chlorocebus_sabaeus;Green monkey;VervetCercopithe_72ae;Green_monkey;Nonape;Cercopithecini
+Papio_hamadryas;Hamadryas baboon;BabouinCercopith_a723;Hamadryas_baboon;Nonape;Papionini
+Macaca_fascicularis;Crab-eating macaque;MacacaFascicular_3a21;Crab-eating_macaque;Nonape;Papionini
+Macaca_fascicularis;Crab-eating macaque;MacacaFascicularis_32200;Crab-eating_macaque;Nonape;Papionini
+Macaca_fascicularis;Crab-eating macaque;MacacaFascicularis_32202;Crab-eating_macaque;Nonape;Papionini
+Macaca_fascicularis;Crab-eating macaque;MacacaFascicularis_32204;Crab-eating_macaque;Nonape;Papionini
+Macaca_fascicularis;Crab-eating macaque;MacacaFascicularis_32205;Crab-eating_macaque;Nonape;Papionini
+Macaca_fascicularis;Crab-eating macaque;MacacaFascicularis_mf01;Crab-eating_macaque;Nonape;Papionini
+Macaca_fascicularis;Crab-eating macaque;MacacaFascicularis_mf02;Crab-eating_macaque;Nonape;Papionini
+Macaca_fascicularis;Crab-eating macaque;MacaqueCrabierMa_8f9e;Crab-eating_macaque;Nonape;Papionini
+Gorilla_beringei_graueri;Eastern lowland gorilla;GorillaBeringeiG_0854;Eastern gorilla;Ape;Hominoidea
+Gorilla_gorilla_gorilla;Western lowland gorilla;Gorilla_kinyani;Western lowland gorilla;Ape;Hominoidea
+Lophocebus_albigena;Grey-cheeked mangabey;MangabeyCercoceb_4458;Grey-cheeked_mangabey;Nonape;Papionini
+Cebus_capucinus;White-faced sapajou;SapajouCapucinCe_d971;White-headed_capuchin;Nonape;Cebidae
+Pongo_pygmaeus;Bornean orangutan;Orangutan_80bb;Orangutan;Ape;Hominoidea
+Macaca_mulatta;Rhesus monkey;MacaqueRhesusMac_bdf8;Rhesus_macaque;Nonape;Papionini
+Macaca_mulatta;Rhesus monkey;MacacaMulatta_32198;Rhesus_macaque;Nonape;Papionini
+Macaca_mulatta;Rhesus monkey;MacacaMulatta_32199;Rhesus_macaque;Nonape;Papionini
+Macaca_mulatta;Rhesus monkey;MacacaMulatta_32201;Rhesus_macaque;Nonape;Papionini
+Macaca_mulatta;Rhesus monkey;MacacaMulatta_32203;Rhesus_macaque;Nonape;Papionini
+Macaca_mulatta;Rhesus monkey;MacacaMulatta_mm01;Rhesus_macaque;Nonape;Papionini
+Pan_troglodytes_troglodytes;Central chimpanzee;Chimp_Abby_Yerkes;Chimpanzee;Ape;Hominoidea
+Pan_troglodytes_troglodytes;Central chimpanzee;Chimp_Amanda_Yerkes;Chimpanzee;Ape;Hominoidea
+Pan_troglodytes_troglodytes;Central chimpanzee;Chimp_Artemus_Yerkes;Chimpanzee;Ape;Hominoidea
+Pan_troglodytes_troglodytes;Central chimpanzee;Chimp_Arthur_Yerkes;Chimpanzee;Ape;Hominoidea
+Pan_troglodytes_troglodytes;Central chimpanzee;Chimp_Azalea_Yerkes;Chimpanzee;Ape;Hominoidea
+Pan_troglodytes_troglodytes;Central chimpanzee;Chimp_Barbara_Yerkes;Chimpanzee;Ape;Hominoidea
+Pan_troglodytes_troglodytes;Central chimpanzee;Chimp_Barney_Yerkes;Chimpanzee;Ape;Hominoidea
+Pan_troglodytes_troglodytes;Central chimpanzee;Chimp_Carl_Yerkes;Chimpanzee;Ape;Hominoidea
+Pan_troglodytes_troglodytes;Central chimpanzee;Chimp_David_Yerkes;Chimpanzee;Ape;Hominoidea
+Homo_sapiens;Human;Human_51058;Human;Ape;Hominoidea
+Homo_sapiens;Human;Human_51060;Human;Ape;Hominoidea
+Homo_sapiens;Human;Human_51061;Human;Ape;Hominoidea
+Homo_sapiens;Human;Human_51062;Human;Ape;Hominoidea
+Homo_sapiens;Human;Human_51063;Human;Ape;Hominoidea
+Homo_sapiens;Human;Human_51114;Human;Ape;Hominoidea
+Homo_sapiens;Human;Human_51116;Human;Ape;Hominoidea
+Homo_sapiens;Human;Human_51118;Human;Ape;Hominoidea
+Homo_sapiens;Human;Human_51152;Human;Ape;Hominoidea
+Homo_sapiens;Human;Human_51153;Human;Ape;Hominoidea
+Pan_paniscus;Pygmy chimpanzee;Bonobo_brian;Bonobo;Ape;Hominoidea
+Hylobates_lar;Common gibbon;Gibbon_buddy;Gibbon;Ape;Hominoidea

@@ -1,0 +1,53 @@
+Generalized least squares fit by REML
+  Model: MedianCerebellum ~ MedianCerebrum 
+  Data: SUSPICIOUS 
+       AIC       BIC   logLik
+  3.165323 0.4611599 1.417338
+
+Correlation Structure: corBrownian
+ Formula: ~1 
+ Parameter estimate(s):
+numeric(0)
+
+Coefficients:
+                    Value Std.Error   t-value p-value
+(Intercept)    -0.8579904 0.4161964 -2.061504  0.1313
+MedianCerebrum  1.0110850 0.0917263 11.022849  0.0016
+
+ Correlation: 
+               (Intr)
+MedianCerebrum -0.984
+
+Standardized residuals:
+Daubentonia_madagascariensis               Eulemur_mongoz         Lagothrix_lagotricha               Pongo_pygmaeus             Saimiri_sciureus 
+                   0.4495480                    1.2204755                   -1.0734374                   -0.4251819                   -1.1764577 
+attr(,"std")
+[1] 0.1302489 0.1302489 0.1302489 0.1302489 0.1302489
+attr(,"label")
+[1] "Standardized residuals"
+
+Residual standard error: 0.1302489 
+Degrees of freedom: 5 total; 3 residual
+   (Intercept) MedianCerebrum 
+    -0.8579904      1.0110850 
+[1] "---------------------------"
+
+Call:
+lm(formula = pic.C.suspicious ~ pic.V.suspicious + 0)
+
+Residuals:
+        6         7         8         9 
+-0.022230  0.010007  0.002055  0.009930 
+
+Coefficients:
+                 Estimate Std. Error t value Pr(>|t|)   
+pic.V.suspicious  1.01109    0.09173   11.02   0.0016 **
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.01524 on 3 degrees of freedom
+Multiple R-squared:  0.9759,	Adjusted R-squared:  0.9679 
+F-statistic: 121.5 on 1 and 3 DF,  p-value: 0.001599
+
+pic.V.suspicious 
+        1.011085 

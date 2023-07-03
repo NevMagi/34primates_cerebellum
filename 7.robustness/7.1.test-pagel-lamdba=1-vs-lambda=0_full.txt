@@ -1,0 +1,19 @@
+Phylogenetic trait variance-covariance
+              CerebellarVol  CerebralVol           CC
+CerebellarVol   0.005624142  0.005613762  0.000803863
+CerebralVol     0.005613762  0.005737578 -0.004060295
+CC              0.000803863 -0.004060295  0.180767796
+
+Brownian motion model
+Phylogenetic trait variance-covariance
+              CerebellarVol  CerebralVol          CC
+CerebellarVol   0.005947622  0.006386231 -0.01713478
+CerebralVol     0.006386231  0.006977476 -0.02307112
+CC             -0.017134776 -0.023071117  0.23352263
+
+Star phylogeny model
+Log-likelihood full-BM	15.56437
+Log-likelihood star	-26.73508
+chi_square	84.59889
+df	0
+p-value	0

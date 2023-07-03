@@ -1,0 +1,49 @@
+Generalized least squares fit by REML
+  Model: MedianCerebellum ~ MedianCerebrum 
+  Data: NOPARIS 
+         AIC       BIC   logLik
+  -0.9266038 -1.551325 3.463302
+
+Correlation Structure: corBrownian
+ Formula: ~1 
+ Parameter estimate(s):
+numeric(0)
+
+Coefficients:
+                    Value Std.Error   t-value p-value
+(Intercept)    -0.2519140 0.6918042 -0.364141  0.7282
+MedianCerebrum  0.8845506 0.1376075  6.428071  0.0007
+
+ Correlation: 
+               (Intr)
+MedianCerebrum -0.988
+
+Standardized residuals:
+       Min         Q1        Med         Q3        Max 
+-0.4366950 -0.2556941  0.5300890  0.9172495  1.3733976 
+
+Residual standard error: 0.1914886 
+Degrees of freedom: 8 total; 6 residual
+   (Intercept) MedianCerebrum 
+    -0.2519140      0.8845506 
+[1] "---------------------------"
+
+Call:
+lm(formula = pic.C.noparis ~ pic.V.noparis + 0)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.068614 -0.029860 -0.024852 -0.003186  0.012461 
+
+Coefficients:
+              Estimate Std. Error t value Pr(>|t|)    
+pic.V.noparis   0.8846     0.1376   6.428  0.00067 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.03496 on 6 degrees of freedom
+Multiple R-squared:  0.8732,	Adjusted R-squared:  0.8521 
+F-statistic: 41.32 on 1 and 6 DF,  p-value: 0.0006699
+
+pic.V.noparis 
+    0.8845506 

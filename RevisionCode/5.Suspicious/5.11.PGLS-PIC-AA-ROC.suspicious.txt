@@ -1,0 +1,53 @@
+Generalized least squares fit by REML
+  Model: MedianCrus ~ MedianROC 
+  Data: SUSPICIOUSAA 
+      AIC       BIC  logLik
+  2.19156 -1.728999 1.90422
+
+Correlation Structure: corBrownian
+ Formula: ~1 
+ Parameter estimate(s):
+numeric(0)
+
+Coefficients:
+                Value  Std.Error   t-value p-value
+(Intercept) -1.630939 0.20186890 -8.079198  0.0150
+MedianROC    1.245591 0.05435978 22.913833  0.0019
+
+ Correlation: 
+          (Intr)
+MedianROC -0.971
+
+Standardized residuals:
+Daubentonia_madagascariensis         Lagothrix_lagotricha               Pongo_pygmaeus             Saimiri_sciureus 
+                 -0.80470732                  -0.05296507                   0.86378740                   0.53912158 
+attr(,"std")
+[1] 0.0768898 0.0768898 0.0768898 0.0768898
+attr(,"label")
+[1] "Standardized residuals"
+
+Residual standard error: 0.0768898 
+Degrees of freedom: 4 total; 2 residual
+(Intercept)   MedianROC 
+  -1.630939    1.245591 
+[1] "---------------------------"
+
+Call:
+lm(formula = pic.AA.suspiciousAA ~ pic.ROC.suspiciousAA + 0)
+
+Residuals:
+        5         6         7 
+ 0.009269  0.005240 -0.006972 
+
+Coefficients:
+                     Estimate Std. Error t value Pr(>|t|)   
+pic.ROC.suspiciousAA  1.24559    0.05436   22.91   0.0019 **
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.008999 on 2 degrees of freedom
+Multiple R-squared:  0.9962,	Adjusted R-squared:  0.9943 
+F-statistic:   525 on 1 and 2 DF,  p-value: 0.001899
+
+pic.ROC.suspiciousAA 
+            1.245591 

@@ -1,0 +1,18 @@
+
+	Lilliefors (Kolmogorov-Smirnov) normality test
+
+data:  residuals(nonPhylo_cerebrocerebellar)
+D = 0.096611, p-value = 0.5822
+
+
+	Lilliefors (Kolmogorov-Smirnov) normality test
+
+data:  residuals(nonPhylo_aac)
+D = 0.13775, p-value = 0.7169
+
+
+	Lilliefors (Kolmogorov-Smirnov) normality test
+
+data:  residuals(nonPhylo_aacerebrum)
+D = 0.18424, p-value = 0.2646
+

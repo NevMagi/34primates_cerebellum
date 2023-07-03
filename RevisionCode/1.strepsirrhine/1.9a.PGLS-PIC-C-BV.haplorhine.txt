@@ -1,0 +1,49 @@
+Generalized least squares fit by REML
+  Model: MedianCerebellum ~ BrainVol 
+  Data: HAPL 
+        AIC       BIC   logLik
+  -25.44295 -22.16982 15.72147
+
+Correlation Structure: corBrownian
+ Formula: ~1 
+ Parameter estimate(s):
+numeric(0)
+
+Coefficients:
+                 Value Std.Error   t-value p-value
+(Intercept) -0.9559802 0.3685624 -2.593809  0.0166
+BrainVol     0.9872307 0.0748998 13.180691  0.0000
+
+ Correlation: 
+         (Intr)
+BrainVol -0.963
+
+Standardized residuals:
+        Min          Q1         Med          Q3         Max 
+-1.81487761 -0.17654943  0.08182779  0.39251882  1.39763672 
+
+Residual standard error: 0.1852957 
+Degrees of freedom: 24 total; 22 residual
+(Intercept)    BrainVol 
+ -0.9559802   0.9872307 
+[1] "---------------------------"
+
+Call:
+lm(formula = pic.C.hapl ~ pic.BV.hapl + 0)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.058045 -0.021799 -0.000718  0.011979  0.057676 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+pic.BV.hapl   0.9872     0.0749   13.18 6.42e-12 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.02708 on 22 degrees of freedom
+Multiple R-squared:  0.8876,	Adjusted R-squared:  0.8825 
+F-statistic: 173.7 on 1 and 22 DF,  p-value: 6.424e-12
+
+pic.BV.hapl 
+  0.9872307 

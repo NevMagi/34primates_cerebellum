@@ -1,0 +1,49 @@
+Generalized least squares fit by REML
+  Model: MedianCrus ~ MedianCerebrum 
+  Data: NONAPES13 
+       AIC      BIC    logLik
+  5.009698 4.384976 0.4951511
+
+Correlation Structure: corBrownian
+ Formula: ~1 
+ Parameter estimate(s):
+numeric(0)
+
+Coefficients:
+                   Value Std.Error   t-value p-value
+(Intercept)    -2.813636 0.9175406 -3.066497  0.0220
+MedianCerebrum  1.246050 0.2037727  6.114901  0.0009
+
+ Correlation: 
+               (Intr)
+MedianCerebrum -0.982
+
+Standardized residuals:
+       Min         Q1        Med         Q3        Max 
+-1.3114146 -0.3260015 -0.1290818  0.2997127  0.4782910 
+
+Residual standard error: 0.2868055 
+Degrees of freedom: 8 total; 6 residual
+   (Intercept) MedianCerebrum 
+     -2.813636       1.246050 
+[1] "---------------------------"
+
+Call:
+lm(formula = pic.AA13.nonapes ~ pic.V13.nonapes + 0)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.051777 -0.032631 -0.018759 -0.004042  0.034372 
+
+Coefficients:
+                Estimate Std. Error t value Pr(>|t|)    
+pic.V13.nonapes   1.2460     0.2038   6.115 0.000873 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.03357 on 6 degrees of freedom
+Multiple R-squared:  0.8617,	Adjusted R-squared:  0.8387 
+F-statistic: 37.39 on 1 and 6 DF,  p-value: 0.000873
+
+pic.V13.nonapes 
+        1.24605 

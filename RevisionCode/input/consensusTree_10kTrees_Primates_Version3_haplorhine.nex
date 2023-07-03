@@ -1,0 +1,32 @@
+#NEXUS
+[created by the 10kTree Website - http://10kTrees.fas.harvard.edu]
+BEGIN TREES;
+translate
+1 Cercopithecus_cephus_cephus,
+2 Chlorocebus_sabaeus,
+3 Ateles_paniscus,
+4 Lagothrix_lagotricha,
+5 Aotus_trivirgatus,
+6 Callithrix_penicillata,
+7 Cebus_apella,
+8 Cebus_capucinus,
+9 Saguinus_oedipus,
+10 Saimiri_sciureus,
+11 Gorilla_beringei,
+12 Gorilla_gorilla_gorilla,
+13 Homo_sapiens,
+14 Hylobates_lar,
+15 Pan_paniscus,
+16 Pan_troglodytes_troglodytes,
+17 Pongo_pygmaeus,
+18 Cercocebus_torquatus_atys,
+19 Lophocebus_albigena,
+20 Macaca_fascicularis,
+21 Macaca_mulatta,
+22 Papio_hamadryas,
+23 Colobus_polykomos,
+24 Semnopithecus_entellus,
+25 Trachypithecus_germaini;
+tree consensus_25species = (((((1:9.848127,2:9.848125):5.027053,((18:11.350464,(19:5.769163,22:5.769163):5.581300):1.502062,(20:5.045978,21:5.045978):7.806547):2.022653):6.535196,(23:15.435157,(24:11.461377,25:11.461377):3.973781):5.975217):8.589626,(14:19.605945,(((11:2.558516,12:2.558516):6.093717,(13:6.175880,(15:2.333553,16:2.333553):3.842326):2.476353):6.480222,17:15.132455):4.473491):10.394055):16.811821,((3:9.147391,4:9.147391):12.173909,((5:19.487521,(6:15.712251,9:15.712253):3.775269):0.605006,((8:6.449384,7:6.449384):12.120521,10:18.569905):1.522623):1.228773):25.490521);
+END;<br />
+<b>Warning</b>:  session_write_close() expects exactly 0 parameters, 1 given in <b>/var/www/10ktrees.nunn-lab.org/sendTreesToUser.php</b> on line <b>98</b><br />

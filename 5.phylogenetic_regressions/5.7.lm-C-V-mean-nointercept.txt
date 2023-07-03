@@ -1,0 +1,18 @@
+
+Call:
+lm(formula = pic.C ~ 0 + pic.V)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.288527 -0.078233  0.002953  0.057416  0.146950 
+
+Coefficients:
+      Estimate Std. Error t value Pr(>|t|)    
+pic.V  0.96370    0.03029   31.82   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.1103 on 32 degrees of freedom
+Multiple R-squared:  0.9694,	Adjusted R-squared:  0.9684 
+F-statistic:  1012 on 1 and 32 DF,  p-value: < 2.2e-16
+

@@ -1,0 +1,9 @@
+Approximate 95% confidence intervals
+
+ Correlation structure:
+           lower      est.    upper
+lambda -1.133347 0.3244747 1.782297
+
+ Residual standard error:
+     lower       est.      upper 
+0.09039072 0.18330633 0.37173296 

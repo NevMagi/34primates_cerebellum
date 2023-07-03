@@ -1,0 +1,19 @@
+
+Call:
+lm(formula = pic.C.nosuspicious ~ pic.V.nosuspicious)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.063154 -0.011218  0.002276  0.018960  0.036777 
+
+Coefficients:
+                    Estimate Std. Error t value Pr(>|t|)    
+(Intercept)        -0.006624   0.004380  -1.512    0.143    
+pic.V.nosuspicious  0.928412   0.053000  17.517 6.49e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.02296 on 26 degrees of freedom
+Multiple R-squared:  0.9219,	Adjusted R-squared:  0.9189 
+F-statistic: 306.9 on 1 and 26 DF,  p-value: 6.486e-16
+

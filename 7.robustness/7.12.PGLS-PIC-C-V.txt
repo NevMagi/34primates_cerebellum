@@ -1,0 +1,49 @@
+Generalized least squares fit by REML
+  Model: CerebellarVol ~ CerebralVol 
+  Data: Stephan.log 
+        AIC      BIC  logLik
+  -59.74441 -55.3472 32.8722
+
+Correlation Structure: corBrownian
+ Formula: ~1 
+ Parameter estimate(s):
+numeric(0)
+
+Coefficients:
+                 Value  Std.Error  t-value p-value
+(Intercept) -0.4137426 0.13455492 -3.07490  0.0043
+CerebralVol  0.9170579 0.02705775 33.89262  0.0000
+
+ Correlation: 
+            (Intr)
+CerebralVol -0.887
+
+Standardized residuals:
+        Min          Q1         Med          Q3         Max 
+-1.23014388 -0.55412777 -0.01718717  0.41711247  1.10734002 
+
+Residual standard error: 0.133585 
+Degrees of freedom: 34 total; 32 residual
+(Intercept) CerebralVol 
+ -0.4137426   0.9170579 
+[1] "---------------------------"
+
+Call:
+lm(formula = pic.C ~ pic.V + 0)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.023807 -0.004167  0.000905  0.008467  0.037279 
+
+Coefficients:
+      Estimate Std. Error t value Pr(>|t|)    
+pic.V  0.97842    0.02676   36.56   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.01165 on 32 degrees of freedom
+Multiple R-squared:  0.9766,	Adjusted R-squared:  0.9759 
+F-statistic:  1336 on 1 and 32 DF,  p-value: < 2.2e-16
+
+    pic.V 
+0.9784203 

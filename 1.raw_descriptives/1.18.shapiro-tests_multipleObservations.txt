@@ -1,0 +1,132 @@
+[1] "Homo sapiens"
+$`Cerebellar Volume`
+
+	Shapiro-Wilk normality test
+
+data:  X[[i]]
+W = 0.91051, p-value = 0.2845
+
+
+$`Cerebral Volume`
+
+	Shapiro-Wilk normality test
+
+data:  X[[i]]
+W = 0.92061, p-value = 0.3621
+
+
+$`Ansiform Area Volume`
+
+	Shapiro-Wilk normality test
+
+data:  X[[i]]
+W = 0.98274, p-value = 0.9781
+
+
+$`Cerebellum-to-Cerebrum Ratio`
+
+	Shapiro-Wilk normality test
+
+data:  X[[i]]
+W = 0.91816, p-value = 0.3419
+
+
+$`Ansiform Area-to-Cerebellum Ratio`
+
+	Shapiro-Wilk normality test
+
+data:  X[[i]]
+W = 0.95572, p-value = 0.7362
+
+
+[1] "Pan troglodytes"
+$`Cerebellar Volume`
+
+	Shapiro-Wilk normality test
+
+data:  X[[i]]
+W = 0.86922, p-value = 0.1206
+
+
+$`Cerebral Volume`
+
+	Shapiro-Wilk normality test
+
+data:  X[[i]]
+W = 0.96718, p-value = 0.8696
+
+
+$`Ansiform Area Volume`
+
+	Shapiro-Wilk normality test
+
+data:  X[[i]]
+W = 0.94665, p-value = 0.6533
+
+
+$`Cerebellum-to-Cerebrum Ratio`
+
+	Shapiro-Wilk normality test
+
+data:  X[[i]]
+W = 0.96355, p-value = 0.8347
+
+
+$`Ansiform Area-to-Cerebellum Ratio`
+
+	Shapiro-Wilk normality test
+
+data:  X[[i]]
+W = 0.92892, p-value = 0.4711
+
+
+[1] "Macaca fascicularis"
+$`Cerebellar Volume`
+
+	Shapiro-Wilk normality test
+
+data:  X[[i]]
+W = 0.92787, p-value = 0.4969
+
+
+$`Cerebral Volume`
+
+	Shapiro-Wilk normality test
+
+data:  X[[i]]
+W = 0.86734, p-value = 0.1419
+
+
+$`Cerebellum-to-Cerebrum Ratio`
+
+	Shapiro-Wilk normality test
+
+data:  X[[i]]
+W = 0.94417, p-value = 0.6525
+
+
+[1] "Macaca mulatta"
+$`Cerebellar Volume`
+
+	Shapiro-Wilk normality test
+
+data:  X[[i]]
+W = 0.67521, p-value = 0.003352
+
+
+$`Cerebral Volume`
+
+	Shapiro-Wilk normality test
+
+data:  X[[i]]
+W = 0.6446, p-value = 0.001528
+
+
+$`Cerebellum-to-Cerebrum Ratio`
+
+	Shapiro-Wilk normality test
+
+data:  X[[i]]
+W = 0.92566, p-value = 0.5471
+
+

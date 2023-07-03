@@ -1,0 +1,52 @@
+Generalized least squares fit by REML
+  Model: MedianCrus ~ MedianROC + BrainVol 
+  Data: speciesAA 
+       AIC      BIC    logLik
+  12.60531 13.81566 -2.302657
+
+Correlation Structure: corBrownian
+ Formula: ~1 
+ Parameter estimate(s):
+numeric(0)
+
+Coefficients:
+                 Value Std.Error    t-value p-value
+(Intercept) -2.1313795 1.2215005 -1.7448863  0.1116
+MedianROC    1.1095447 0.5972221  1.8578427  0.0928
+BrainVol     0.2092968 0.6207945  0.3371435  0.7430
+
+ Correlation: 
+          (Intr) MdnROC
+MedianROC  0.443       
+BrainVol  -0.724 -0.933
+
+Standardized residuals:
+        Min          Q1         Med          Q3         Max 
+-0.65003763 -0.09728040 -0.00619922  0.06775146  0.26535322 
+
+Residual standard error: 0.5151242 
+Degrees of freedom: 13 total; 10 residual
+(Intercept)   MedianROC    BrainVol 
+ -2.1313795   1.1095447   0.2092968 
+[1] "---------------------------"
+
+Call:
+lm(formula = pic.AA.AA ~ pic.ROC.AA + pic.BV.AA + 0)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-0.27833 -0.08863 -0.03004  0.01783  0.09558 
+
+Coefficients:
+           Estimate Std. Error t value Pr(>|t|)   
+pic.ROC.AA   1.0932     0.2557   4.275  0.00163 **
+pic.BV.AA    0.1650     0.2837   0.582  0.57360   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.1168 on 10 degrees of freedom
+Multiple R-squared:  0.9749,	Adjusted R-squared:  0.9699 
+F-statistic: 194.2 on 2 and 10 DF,  p-value: 9.963e-09
+
+pic.ROC.AA  pic.BV.AA 
+ 1.0931537  0.1650398 

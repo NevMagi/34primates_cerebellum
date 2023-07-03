@@ -1,0 +1,12 @@
+[1] "Cerebellar volume regressed on cerebral volume"
+   R2_lik  R2_resid   R2_pred 
+0.9696283 0.9569835 0.9876666 
+[1] "Ansiform area volume regressed on cerebellar volume"
+   R2_lik  R2_resid   R2_pred 
+0.9410420 0.9316955 0.9750990 
+[1] "Ansiform area volume regressed on cerebellar volume"
+   R2_lik  R2_resid   R2_pred 
+0.8457143 0.7709775 0.9599694 
+[1] "Ansiform area volume regressed on cerebral volume"
+   R2_lik  R2_resid   R2_pred 
+0.9114175 0.8822917 0.9799564 

@@ -1,0 +1,6 @@
+                 Df Sum Sq Mean Sq  F value   Pr(>F)    
+WilsonReederName  5  6.101  1.2201 1155.197 1.19e-07 ***
+Observer          1  0.001  0.0007    0.617    0.468    
+Residuals         5  0.005  0.0011                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

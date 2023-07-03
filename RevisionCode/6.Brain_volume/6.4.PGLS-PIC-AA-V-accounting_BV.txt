@@ -1,0 +1,50 @@
+Generalized least squares fit by REML
+  Model: MedianCrus ~ MedianCerebrum + BrainVol 
+  Data: speciesAA 
+      AIC     BIC    logLik
+  7.55894 8.76928 0.2205302
+
+Correlation Structure: corBrownian
+ Formula: ~1 
+ Parameter estimate(s):
+numeric(0)
+
+Coefficients:
+                   Value Std.Error   t-value p-value
+(Intercept)    -1.945671 0.9544380 -2.038552  0.0688
+MedianCerebrum  2.267579 0.6927128  3.273477  0.0084
+BrainVol       -1.171497 0.7718060 -1.517865  0.1600
+
+ Correlation: 
+               (Intr) MdnCrb
+MedianCerebrum  0.382       
+BrainVol       -0.579 -0.972
+
+Standardized residuals:
+       Min         Q1        Med         Q3        Max 
+-1.0650863 -0.1837415  0.1304501  0.2267403  0.8572128 
+
+Residual standard error: 0.4150967 
+Degrees of freedom: 13 total; 10 residual
+   (Intercept) MedianCerebrum       BrainVol 
+     -1.945671       2.267579      -1.171497 
+[1] "---------------------------"
+
+Call:
+lm(formula = pic.AA.AA ~ pic.V.AA + pic.BV.AA + 0)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-0.25302 -0.19479 -0.10703  0.05357  0.17495 
+
+Coefficients:
+          Estimate Std. Error t value Pr(>|t|)
+pic.V.AA    1.1020     0.6374   1.729    0.115
+pic.BV.AA   0.1727     0.6832   0.253    0.806
+
+Residual standard error: 0.1723 on 10 degrees of freedom
+Multiple R-squared:  0.9454,	Adjusted R-squared:  0.9344 
+F-statistic: 86.52 on 2 and 10 DF,  p-value: 4.866e-07
+
+ pic.V.AA pic.BV.AA 
+ 1.102021  0.172675 
