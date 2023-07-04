@@ -1161,7 +1161,7 @@ sink("./6.Brain_volume/6.32b.EQ-Species.txt")
 ggplotRegression4(reg.mod2, ylabel = "Number of standard deviations\nin brain volume (species median; log10-transformed)", xlabel = "Body mass (species mean; log10-transformed)", species = species2)
 sink()
 
-tiff("./6.Brain_volume/6.32c.regularRegression-brainvol-bodymass-median-sd-notext.tiff", width = 20, height = 8, units = "in", res = 300)
+tiff("./6.Brain_volume/6.32c.regularRegression-brainvol-bodymass-median-sd-notext.tiff", width = 14, height = 8, units = "in", res = 300)
 ggplotRegression5(reg.mod2, ylabel = "Number of standard deviations\nin brain volume (species median; log10-transformed)", xlabel = "Body mass (species mean; log10-transformed)", species = species2)
 graphics.off()
 
