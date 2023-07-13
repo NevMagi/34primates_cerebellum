@@ -24,13 +24,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.0969754"
-     inkscape:cx="361.23457"
-     inkscape:cy="395.80818"
+     inkscape:zoom="1.2309672"
+     inkscape:cx="414.71455"
+     inkscape:cy="550.78641"
      inkscape:window-width="1312"
      inkscape:window-height="796"
-     inkscape:window-x="70"
-     inkscape:window-y="177"
+     inkscape:window-x="228"
+     inkscape:window-y="107"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -2626,7 +2626,7 @@
          id="tspan22595-2"
          style="font-size:2.64583px;stroke-width:0.264583"
          x="-60.37888"
-         y="5.5924277">Cerebral volume (log10-transformed)</tspan></text>
+         y="5.5924277">Cerebellar volume (log10-transformed)</tspan></text>
     <g
        id="g26151"
        inkscape:label="3.7a.PGLS.slope.distribution10000.CC.conservative.2xintraspecific"
@@ -4349,7 +4349,7 @@
          id="tspan40872-8"
          style="font-style:italic;font-size:3.52778px;opacity:1;fill:#000000;fill-opacity:0.48583;stroke-width:0.264583"
          x="103.08249"
-         y="94.760323">Includes 2x interspecific variability</tspan></text>
+         y="94.760323">2x interspecific variability</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.64583px;line-height:1.25;font-family:arial;-inkscape-font-specification:arial;stroke-width:0.264583"
@@ -4951,5 +4951,31 @@
          style="font-size:1.41111px;stroke-width:0.264583"
          x="201.19943"
          y="211.98798">1.5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:arial;-inkscape-font-specification:arial;stroke-width:0.264583"
+       x="14.923246"
+       y="24.246916"
+       id="text2510"><tspan
+         sodipodi:role="line"
+         id="tspan2508"
+         style="font-weight:bold;font-size:2.82222px;stroke-width:0.264583"
+         x="14.923246"
+         y="24.246916">Pr(&gt;F)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="14.923246"
+         y="27.774691"
+         id="tspan6982">Slopes: .91</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="14.923246"
+         y="31.302465"
+         id="tspan3306">Intercept: .47</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;stroke-width:0.264583;font-weight:bold"
+         x="14.923246"
+         y="34.830242"
+         id="tspan5044">Both: .04*</tspan></text>
   </g>
 </svg>

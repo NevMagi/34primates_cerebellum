@@ -24,13 +24,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.94319166"
-     inkscape:cx="381.15265"
-     inkscape:cy="276.72"
+     inkscape:zoom="1.3562058"
+     inkscape:cx="296.0465"
+     inkscape:cy="254.38616"
      inkscape:window-width="1312"
      inkscape:window-height="796"
-     inkscape:window-x="1543"
-     inkscape:window-y="137"
+     inkscape:window-x="1920"
+     inkscape:window-y="205"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -699,7 +699,7 @@
        id="text22401"><tspan
          sodipodi:role="line"
          id="tspan22399"
-         style="stroke-width:0.264583"></tspan></text>
+         style="stroke-width:0.264583" /></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:arial;-inkscape-font-specification:arial;fill:#46f312;fill-opacity:1;stroke-width:0.264583"
@@ -712,5 +712,31 @@
          style="font-weight:bold;font-size:4.23333px;fill:#46f312;fill-opacity:1;stroke-width:0.264583"
          x="21.453217"
          y="24.942463">y = -0.857 + 1.011x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:arial;-inkscape-font-specification:arial;stroke-width:0.264583"
+       x="17.400599"
+       y="33.02367"
+       id="text450"><tspan
+         sodipodi:role="line"
+         id="tspan448"
+         style="font-weight:bold;font-size:3.175px;stroke-width:0.264583"
+         x="17.400599"
+         y="33.02367">Pr(&gt;F)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.175px;stroke-width:0.264583"
+         x="17.400599"
+         y="36.99242"
+         id="tspan848">Slopes: .56</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.175px;stroke-width:0.264583"
+         x="17.400599"
+         y="40.96117"
+         id="tspan850">Intercept: .54</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.175px;stroke-width:0.264583"
+         x="17.400599"
+         y="44.92992"
+         id="tspan852">Both: .79</tspan></text>
   </g>
 </svg>
