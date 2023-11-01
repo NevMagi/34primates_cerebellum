@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10054902.svg)](https://doi.org/10.5281/zenodo.10054902)
+
 # 34primates-cerebellum
 Phylogenetic comparative analyses of primate cerebellar and ansiform area volumes.
 
